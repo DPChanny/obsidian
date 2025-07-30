@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "focusNewTab": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "rightToLeft": false
+}

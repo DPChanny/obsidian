@@ -1,0 +1,177 @@
+{
+  "workspaces": {
+    "Main": {
+      "main": {
+        "id": "6c49a24d053b9421",
+        "type": "split",
+        "children": [
+          {
+            "id": "45e3bb794b53321e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99d529cf53bc2cff",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "89397916daf1a982",
+        "type": "split",
+        "children": [
+          {
+            "id": "fad9cc57afbf2a41",
+            "type": "tabs",
+            "dimension": 18.832391713747647,
+            "children": [
+              {
+                "id": "be21e98e7d0bf5af",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5cdfa4f5423b0714",
+            "type": "tabs",
+            "dimension": 81.16760828625236,
+            "children": [
+              {
+                "id": "cef44486b0ddf47e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "621911166bcf7472",
+        "type": "split",
+        "children": [
+          {
+            "id": "21c6386174f2364f",
+            "type": "tabs",
+            "dimension": 18.115942028985508,
+            "children": [
+              {
+                "id": "d75abfe6ecbc6ad2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {},
+                  "icon": "lucide-info",
+                  "title": "File properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "15726700b62d82f9",
+            "type": "tabs",
+            "dimension": 38.677536231884055,
+            "children": [
+              {
+                "id": "81aeb941f9497b93",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3254ea25e8e9a43e",
+            "type": "tabs",
+            "dimension": 43.20652173913043,
+            "children": [
+              {
+                "id": "a9ce40c65a3a0868",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Frameworks/React/Fiber/Complete Phase.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Complete Phase"
+                }
+              },
+              {
+                "id": "fe7fe6104a0e16d8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "99d529cf53bc2cff",
+      "mtime": "2025-06-16T03:16:04+09:00"
+    }
+  },
+  "active": "Main"
+}
