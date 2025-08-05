@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "156385c21e074284",
+        "id": "e356ac86c032c0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ca7a666a19f33ff1",
+            "id": "8e38eda397e53075",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academics/KHUDA/2장 용어 정리.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2장 용어 정리"
+              "title": "New tab"
             }
           }
         ]
@@ -92,11 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Academics/KHUDA/2장 용어 정리.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2장 용어 정리"
+              "title": "File properties"
             }
           },
           {
@@ -126,13 +120,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academics/KHUDA/2장 용어 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2장 용어 정리"
+              "title": "Outline"
             }
           }
         ]
@@ -166,12 +159,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academics/KHUDA/2장 용어 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2장 용어 정리"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -188,10 +180,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca7a666a19f33ff1",
+  "active": "8e38eda397e53075",
   "lastOpenFiles": [
-    "Frameworks/UE5/UHT/UCLASS.md",
+    "Academics/KHUDA/4장/보정 과정 자세히.md",
+    "Academics/KHUDA/4장/4장 용어 정리.md",
+    "Academics/KHUDA/4장/발전 과정 자세히.md",
+    "Academics/KHUDA/4장",
     "Academics/KHUDA/2장 용어 정리.md",
+    "Frameworks/UE5/UHT/UCLASS.md",
     "Academics/KHUDA",
     "Frameworks/UE5/UHT/UPROPERTY.md",
     "Frameworks/UE5/UHT/USTRUCT.md",
@@ -214,17 +210,12 @@
     "Libraries/React.md",
     "Libraries/React Query/useQuery.md",
     "Libraries/React Query/Query Key.md",
-    "Libraries/React Query/useMutation.md",
-    "Libraries/React Query/Query Client.md",
     "Tools/Compiler",
-    "Languages/CSS/Layout/Flexbox.md",
-    "Languages/CSS/Layout/Grid.md",
     "Frameworks/UE5/UHT",
     "Frameworks/UE5",
     "Tools/Git/Untitled",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Frame",
-    "Academics/Network/Protocol",
-    "Academics/Network/Socket"
+    "Academics/Network/Protocol"
   ]
 }
