@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e356ac86c032c0ea",
+        "id": "7bd7e83e4307e713",
         "type": "tabs",
         "children": [
           {
-            "id": "8e38eda397e53075",
+            "id": "8d0d93be77e45802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Academics/KHUDA/Session 3.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 3"
             }
           }
         ]
@@ -29,7 +33,7 @@
       {
         "id": "fad9cc57afbf2a41",
         "type": "tabs",
-        "dimension": 18.832391713747647,
+        "dimension": 24.599434495758718,
         "children": [
           {
             "id": "be21e98e7d0bf5af",
@@ -53,7 +57,7 @@
       {
         "id": "5cdfa4f5423b0714",
         "type": "tabs",
-        "dimension": 81.16760828625236,
+        "dimension": 75.40056550424129,
         "children": [
           {
             "id": "cef44486b0ddf47e",
@@ -88,9 +92,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Academics/KHUDA/Session 3.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Session 3"
             }
           },
           {
@@ -120,12 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Academics/KHUDA/Session 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 3"
             }
           }
         ]
@@ -159,11 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academics/KHUDA/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Session 3"
             }
           }
         ],
@@ -180,13 +188,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8e38eda397e53075",
+  "active": "8d0d93be77e45802",
   "lastOpenFiles": [
-    "Academics/KHUDA/4장/보정 과정 자세히.md",
-    "Academics/KHUDA/4장/4장 용어 정리.md",
-    "Academics/KHUDA/4장/발전 과정 자세히.md",
-    "Academics/KHUDA/4장",
-    "Academics/KHUDA/2장 용어 정리.md",
+    "Academics/KHUDA/Session 2/보정 과정 자세히.md",
+    "Academics/KHUDA/Session 2/발전 과정 자세히.md",
+    "Academics/KHUDA/Session 1.md",
+    "Academics/KHUDA/Session 3.md",
+    "Academics/KHUDA/Session 3",
+    "Frameworks/UE5/UHT/UINTERFACE.md",
+    "Tools/Anaconda/create.md",
+    "Tools/Anaconda",
+    "Academics/KHUDA/Session 2/4장 용어 정리.md",
+    "Academics/KHUDA/Session 2",
     "Frameworks/UE5/UHT/UCLASS.md",
     "Academics/KHUDA",
     "Frameworks/UE5/UHT/UPROPERTY.md",
@@ -208,14 +221,10 @@
     "Logs/Out Parameter.md",
     "Libraries/React Query.md",
     "Libraries/React.md",
-    "Libraries/React Query/useQuery.md",
-    "Libraries/React Query/Query Key.md",
     "Tools/Compiler",
     "Frameworks/UE5/UHT",
     "Frameworks/UE5",
     "Tools/Git/Untitled",
-    "Academics/Network/OSI 7 Layer",
-    "Academics/Network/Frame",
-    "Academics/Network/Protocol"
+    "Academics/Network/OSI 7 Layer"
   ]
 }
