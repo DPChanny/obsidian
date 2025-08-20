@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd7e83e4307e713",
+        "id": "4592373853c04072",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0d93be77e45802",
+            "id": "380039e38d2f3b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academics/KHUDA/Session 3.md",
+                "file": "Academics/KHUDA/Session 4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "Session 4"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Academics/KHUDA/Session 3.md"
+                "file": "Academics/KHUDA/Session 4.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Session 3"
+              "title": "File properties for Session 4"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academics/KHUDA/Session 3.md",
+                "file": "Academics/KHUDA/Session 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 3"
+              "title": "Outline of Session 4"
             }
           }
         ]
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academics/KHUDA/Session 3.md",
+                "file": "Academics/KHUDA/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 3"
+              "title": "Outgoing links from Session 4"
             }
           }
         ],
@@ -188,15 +188,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d0d93be77e45802",
+  "active": "380039e38d2f3b59",
   "lastOpenFiles": [
+    "Academics/KHUDA/Session 4.md",
+    "Frameworks/UE5/Initialization.md",
+    "Frameworks/UE5/UHT.md",
+    "Frameworks/UE5.md",
+    "Tools/Anaconda/create.md",
+    "Tools/Git.md",
+    "Generals/OOP.md",
+    "Languages/C++/Constructor.md",
+    "Languages/C++.md",
+    "Frameworks/UE5/Naming Rule.md",
+    "Academics/KHUDA/Session 3.md",
     "Academics/KHUDA/Session 2/보정 과정 자세히.md",
     "Academics/KHUDA/Session 2/발전 과정 자세히.md",
     "Academics/KHUDA/Session 1.md",
-    "Academics/KHUDA/Session 3.md",
     "Academics/KHUDA/Session 3",
     "Frameworks/UE5/UHT/UINTERFACE.md",
-    "Tools/Anaconda/create.md",
     "Tools/Anaconda",
     "Academics/KHUDA/Session 2/4장 용어 정리.md",
     "Academics/KHUDA/Session 2",
@@ -211,16 +220,7 @@
     "Languages/C++/Compiler/Source File.md",
     "Languages/C++/Compiler/Linker.md",
     "Languages/C++/Compiler/Header File.md",
-    "Languages/C++/Smart Pointer.md",
-    "Languages/C++/inline.md",
-    "Languages/C++/Interface.md",
-    "Languages/C++/Inheritance.md",
-    "Languages/C++/Encapsulation.md",
-    "Languages/C++/Class.md",
     "Languages/C++/Compiler",
-    "Logs/Out Parameter.md",
-    "Libraries/React Query.md",
-    "Libraries/React.md",
     "Tools/Compiler",
     "Frameworks/UE5/UHT",
     "Frameworks/UE5",
