@@ -1,6 +1,5 @@
 ---
 type: framework
-parent: "[[Frameworks/Next.js|Next.js]]"
 ---
 ## 개념
 

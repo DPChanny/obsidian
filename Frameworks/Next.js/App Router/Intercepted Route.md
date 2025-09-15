@@ -1,6 +1,5 @@
 ---
 type: framework
-parent: "[[Frameworks/Next.js/App Router|App Router]]"
 ---
 ## 1. 개념
 

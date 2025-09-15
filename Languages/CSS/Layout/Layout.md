@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[Languages/CSS|CSS]]"
 ---
 ## `display` 속성
 

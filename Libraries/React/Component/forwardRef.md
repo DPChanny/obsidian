@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React/Component|Component]]"
 related:
   - "[[Libraries/React/Component/Ref|Ref]]"
 ---

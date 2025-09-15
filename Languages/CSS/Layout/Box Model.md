@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[Languages/CSS/Layout|Layout]]"
 ---
 ## 박스 구성 요소
 

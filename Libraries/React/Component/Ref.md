@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React/Component|Component]]"
 ---
 React는 선언형 UI를 지향한다. 대부분의 경우 명시적인 DOM 접근 없이도 상태 기반으로 UI를 구성할 수 있다. 그러나 다음과 같은 경우에서는 **직접 DOM 또는 인스턴스에 접근해야 할 필요**가 있다:
 

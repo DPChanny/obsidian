@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React Query|React Query]]"
 ---
 ## 1. 캐시 개요
 

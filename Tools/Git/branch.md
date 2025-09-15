@@ -1,5 +1,4 @@
 ---
-parent: "[[Tools/Git|Git]]"
 type: tool
 ---
 ## `git branch` 명령어 상세 정리

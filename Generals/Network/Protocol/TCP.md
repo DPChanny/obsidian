@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Generals/Network/Protocol|Protocol]]"
 ---
 ## 개념
 

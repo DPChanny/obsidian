@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Generals/Network/OSI 7 Layer|OSI 7 Layer]]"
 ---
 ## 개념
 

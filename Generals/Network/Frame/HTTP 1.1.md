@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Generals/Network/Frame|Frame]]"
 ---
 ## 1. 메시지 프레임 구조
 

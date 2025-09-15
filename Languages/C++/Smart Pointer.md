@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[C++]]"
 ---
 ## **1. C++ 표준 스마트 포인터 (`<memory>`)**
 

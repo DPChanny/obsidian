@@ -1,3 +1,6 @@
+---
+type: framework
+---
 `AGameMode`와 `AGameModeBase`의 차이는 언리얼 엔진의 게임 구조를 이해하는 데 매우 중요한 부분입니다.
 
 결론부터 말씀드리면, **`AGameModeBase`가 부모 클래스이고, `AGameMode`는 `AGameModeBase`를 상속받아 더 많은 기능을 추가한 자식 클래스**입니다.

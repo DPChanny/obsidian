@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React|React]]"
 ---
 컴포넌트는 함수(function component) 또는 클래스(class component)로 작성할 수 있으며, React의 렌더링 타임(runtime)은 이 컴포넌트들이 반환하는 JSX를 기반으로 Virtual DOM을 생성하고, 실제 DOM에 반영한다. 이때 **함수형 컴포넌트는 `props`라는 인자를 받아, 그 값에 따라 JSX를 반환하는 순수 함수처럼 작동**한다. 렌더링은 상태(state)나 props가 변경되었을 때 다시 수행되며, 그 결과 UI가 최신 상태로 갱신된다.
 

@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[Languages/CSS|CSS]]"
 ---
 ## 개요
 

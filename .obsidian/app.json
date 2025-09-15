@@ -1,12 +1,21 @@
 {
   "readableLineLength": false,
   "focusNewTab": true,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "tabSize": 4,
+  "useTab": true
 }

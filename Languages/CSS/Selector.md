@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[Languages/CSS|CSS]]"
 ---
 ## 기본 선택자
 

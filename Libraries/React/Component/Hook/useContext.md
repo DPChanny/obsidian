@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React/Component/Hook|Hook]]"
 related:
   - "[[Libraries/React/Component/Context|Context]]"
 ---

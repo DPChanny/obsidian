@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Generals/Network/Socket|Socket]]"
 ---
 ## 개념
 

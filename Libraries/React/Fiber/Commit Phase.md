@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React/Fiber|Fiber]]"
 ---
 ## 개념
 
