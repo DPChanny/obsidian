@@ -1,5 +1,6 @@
 ---
 type: framework
+parent: "[[Frameworks/Next.js/App Router|App Router]]"
 ---
 ## 1. 구조적 목표
 

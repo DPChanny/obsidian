@@ -1,5 +1,6 @@
 ---
 type: default
+parent: "[[Generals/OOP/Abstraction]]"
 ---
 ## 개념
 

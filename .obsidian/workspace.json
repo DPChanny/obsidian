@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb040e76121efc7",
+        "id": "672fe98aaad3a7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2258ef82f28e40fa",
+            "id": "324edfda1a54fa2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academics/KHUDA/Track/2장.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2장"
+              "title": "New tab"
             }
           }
         ]
@@ -93,11 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Academics/KHUDA/Track/2장.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2장"
+              "title": "File properties"
             }
           },
           {
@@ -127,13 +120,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academics/KHUDA/Track/2장.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2장"
+              "title": "Outline"
             }
           }
         ]
@@ -167,12 +159,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academics/KHUDA/Track/2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2장"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -190,43 +181,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2258ef82f28e40fa",
+  "active": "324edfda1a54fa2d",
   "lastOpenFiles": [
-    "Academics/KHUDA/Track/2장.md",
-    "Academics/Logic Gates/Boolean Algebra.md",
-    "Academics/Logic Gates/Binary Storage & Registers & Logics.md",
-    "Academics/Logic Gates/Binary Codes.md",
-    "Academics/Logic Gates/1's Complement.md",
-    "Academics/KHUDA/Track/1장.md",
+    "Academics/Logic Gates/Gate Level Minimization.md",
+    "Academics/Logic Gates/Other Logic Functions & Digital Logic Gates.md",
+    "Academics/Logic Gates/Boolean Functions.md",
+    "Academics/Logic Gates/Other Logic Functions.md",
+    "Academics/KHUDA/2장 용어 정리.md",
+    "Academics/KHUDA/4장/발전 과정 자세히.md",
+    "Academics/KHUDA/4장/4장 용어 정리.md",
+    "Academics/Network/Protocol/HTTP 1.1.md",
+    "Academics/Network/Protocol/HTTP 2.md",
+    "Academics/Network/Frame/Websocket.md",
+    "Generals/OOP.md",
+    "Frameworks/Next.js/Rendering Strategy.md",
+    "Academics/KHUDA/4장/보정 과정 자세히.md",
+    "Frameworks/Next.js/App Router.md",
+    "Libraries/React/Fiber.md",
+    "Generals/OOP/Abstraction.md",
+    "Academics/Network/Frame/HTTP 1.1.md",
+    "Academics/Network/Socket/Passive Socket.md",
+    "Academics/Network/OSI 7 Layer/Application Layer.md",
+    "Academics/Network/OSI 7 Layer/Session Layer.md",
+    "Academics/Network/Socket/Active Socket.md",
+    "Libraries/React/Component/Hook.md",
+    "Academics/Logic Gates/Boolean Algebra.jpg",
+    "Libraries/React/Component.md",
+    "Languages/CSS/Layout.md",
+    "Languages/CSS/Layout/Responsive Layout.md",
+    "Languages/C++.md",
+    "Academics/Network/OSI 7 Layer",
+    "Academics/Network/Protocol",
+    "Academics/Network/Socket",
+    "Academics/Network/Frame",
+    "Academics/KHUDA/4장",
+    "Academics/Network",
     "Academics/KHUDA/Track",
-    "Academics/KHUDA/Session/Session 4.md",
-    "Academics/KHUDA/Session/Session 3.md",
-    "Academics/KHUDA/Session/Session 2/발전 과정 자세히.md",
-    "Academics/KHUDA/Session/Session 2/4장 용어 정리.md",
-    "Academics/KHUDA/Session/Session 2/보정 과정 자세히.md",
     "Academics/KHUDA/Session/Session 2",
-    "Academics/KHUDA/Session/Session 1.md",
     "Academics/KHUDA/Session",
-    "Frameworks/UE5/Authority.md",
-    "Untitled.md",
-    "Frameworks/UE5/Initialization.md",
-    "Frameworks/UE5/Naming Rule.md",
-    "Frameworks/UE5/RPC.md",
-    "Frameworks/UE5/GameModeBase & GameMode.md",
-    "Untitled.base",
-    "Academics/Logic Gates",
-    "Languages/CSS/Layout/Layout.md",
-    "Libraries/React/Component/Component.md",
-    "Libraries/React/Component/Hook/Hook.md",
-    "Libraries/React/Fiber/Fiber.md",
-    "Generals/Network/Socket/Socket.md",
-    "Generals/Network/Protocol/Protocol.md",
-    "Generals/Network/OSI 7 Layer/OSI 7 Layer.md",
-    "Generals/Network/Frame/Frame.md",
-    "Frameworks/UE5/Common UI",
-    "Frameworks/SB3",
-    "Generals/Network/OSI 7 Layer",
-    "Generals/Network/Protocol",
-    "Generals/Network/Socket"
+    "Untitled.base"
   ]
 }

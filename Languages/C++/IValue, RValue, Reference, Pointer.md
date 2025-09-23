@@ -1,5 +1,6 @@
 ---
 type: language
+parent: "[[C++]]"
 ---
 
 ## **1. 값의 종류 (Value Categories)**

@@ -1,5 +1,6 @@
 ---
 type: library
+parent: "[[Libraries/React Query|React Query]]"
 ---
 ## 1. queryKey란 무엇인가?
 

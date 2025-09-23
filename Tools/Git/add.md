@@ -1,5 +1,6 @@
 ---
 type: tool
+parent: "[[Tools/Git|Git]]"
 ---
 ## `git add` 명령어 상세 정리
 

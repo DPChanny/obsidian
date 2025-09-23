@@ -1,5 +1,6 @@
 ---
 type: framework
+parent: "[[Frameworks/UE5|UE5]]"
 ---
 
 ### 1. C++ 클래스 명명 규칙

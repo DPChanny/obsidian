@@ -1,5 +1,6 @@
 ---
 type: language
+parent: "[[C++]]"
 related:
   - "[[Generals/OOP/Abstraction/Abstract Class|Abstract Class]]"
 ---

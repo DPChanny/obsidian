@@ -1,5 +1,6 @@
 ---
 type: language
+parent: "[[C++]]"
 related:
   - "[[Generals/OOP/Polymorphism|Polymorphism]]"
 ---

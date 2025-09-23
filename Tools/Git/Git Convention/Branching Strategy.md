@@ -1,5 +1,6 @@
 ---
 type: tool
+parent: "[[Tools/Git/Git Convention|Git Convention]]"
 ---
 ### Rule 1: 브랜치는 반드시 정의된 기준 브랜치에서만 파생되어야 한다
 

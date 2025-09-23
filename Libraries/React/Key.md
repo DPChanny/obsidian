@@ -1,5 +1,6 @@
 ---
 type: library
+parent: "[[Libraries/React|React]]"
 ---
 ## 개념
 

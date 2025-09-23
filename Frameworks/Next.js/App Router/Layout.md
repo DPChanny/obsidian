@@ -1,5 +1,6 @@
 ---
 type: framework
+parent: "[[Frameworks/Next.js/App Router|App Router]]"
 ---
 ## 1. layout.tsx란 무엇인가
 

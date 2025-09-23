@@ -1,5 +1,6 @@
 ---
 type: framework
+parent: "[[Frameworks/Next.js/App Router|App Router]]"
 related:
   - "[[Frameworks/Next.js/App Router/Layout|Layout]]"
 ---

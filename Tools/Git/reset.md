@@ -1,5 +1,6 @@
 ---
 type: tool
+parent: "[[Tools/Git|Git]]"
 ---
 ## `git reset` 명령어 상세 정리
 

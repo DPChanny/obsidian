@@ -1,5 +1,6 @@
 ---
 type: library
+parent: "[[Libraries/React|React]]"
 ---
 JSX는 JavaScript 안에서 XML-like 문법을 사용할 수 있게 해주는 React의 확장 문법이다. 겉보기에는 HTML과 유사하지만, 실제로는 JavaScript로 변환되는 코드다. JSX는 React의 렌더링 구조와 결합되어, 상태 기반 UI를 선언적으로 표현할 수 있게 한다.
 

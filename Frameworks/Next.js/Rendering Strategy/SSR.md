@@ -1,5 +1,6 @@
 ---
 type: framework
+parent: "[[Frameworks/Next.js/Rendering Strategy|Rendering Strategy]]"
 ---
 ## 1. 개요
 
