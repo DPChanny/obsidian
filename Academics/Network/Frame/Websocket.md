@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Academics/Network/Frame|Frame]]"
 ---
 ## 1. 프레임 구조 개요 (바이트 단위)
 

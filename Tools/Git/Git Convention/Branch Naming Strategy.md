@@ -1,6 +1,5 @@
 ---
 type: tool
-parent: "[[Tools/Git/Git Convention|Git Convention]]"
 ---
 ### 1. Naming Format
 

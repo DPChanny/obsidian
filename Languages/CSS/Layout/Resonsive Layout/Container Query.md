@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[Languages/CSS/Layout/Responsive Layout|Responsive Layout]]"
 ---
 ## 개요
 

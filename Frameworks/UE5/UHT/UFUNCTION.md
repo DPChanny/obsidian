@@ -1,5 +1,4 @@
 ---
-parent: "[[Frameworks/UE5/UHT|UHT]]"
 type: framework
 ---
 `UFUNCTION()`은 `UCLASS` 내부에 선언된 C++ 멤버 함수를 단순한 내부 로직이 아닌, 언리얼 엔진의 다양한 시스템과 상호작용할 수 있는 **공식적인 '업무 능력' 또는 '기술'**로 등록하는 매크로입니다.

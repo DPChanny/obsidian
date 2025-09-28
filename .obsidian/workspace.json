@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "672fe98aaad3a7f4",
+        "id": "3b4f3d8881d3d31a",
         "type": "tabs",
         "children": [
           {
-            "id": "324edfda1a54fa2d",
+            "id": "093a74bdf2d1db39",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "fad9cc57afbf2a41",
         "type": "tabs",
-        "dimension": 24.599434495758718,
+        "dimension": 29.123468426013194,
         "children": [
           {
             "id": "be21e98e7d0bf5af",
@@ -53,7 +53,7 @@
       {
         "id": "5cdfa4f5423b0714",
         "type": "tabs",
-        "dimension": 75.40056550424129,
+        "dimension": 70.8765315739868,
         "children": [
           {
             "id": "cef44486b0ddf47e",
@@ -107,7 +107,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "15726700b62d82f9",
@@ -181,35 +182,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "324edfda1a54fa2d",
+  "active": "093a74bdf2d1db39",
   "lastOpenFiles": [
-    "Academics/Logic Gates/Gate Level Minimization.md",
-    "Academics/Logic Gates/Other Logic Functions & Digital Logic Gates.md",
-    "Academics/Logic Gates/Boolean Functions.md",
-    "Academics/Logic Gates/Other Logic Functions.md",
-    "Academics/KHUDA/2장 용어 정리.md",
-    "Academics/KHUDA/4장/발전 과정 자세히.md",
-    "Academics/KHUDA/4장/4장 용어 정리.md",
-    "Academics/Network/Protocol/HTTP 1.1.md",
-    "Academics/Network/Protocol/HTTP 2.md",
+    "Libraries/Common UI/Pop Up & Menu.md",
+    "Libraries/Common UI/Common Activatable Widget Stack.md",
+    "Libraries/Common UI/Common User Widget.md",
+    "Libraries/Common UI/Common User Activatable Widget.md",
+    "Frameworks/UE5/Naming Rule.md",
+    "Libraries/React/Component/Hook/useEffect.md",
     "Academics/Network/Frame/Websocket.md",
-    "Generals/OOP.md",
-    "Frameworks/Next.js/Rendering Strategy.md",
-    "Academics/KHUDA/4장/보정 과정 자세히.md",
-    "Frameworks/Next.js/App Router.md",
-    "Libraries/React/Fiber.md",
-    "Generals/OOP/Abstraction.md",
-    "Academics/Network/Frame/HTTP 1.1.md",
-    "Academics/Network/Socket/Passive Socket.md",
-    "Academics/Network/OSI 7 Layer/Application Layer.md",
-    "Academics/Network/OSI 7 Layer/Session Layer.md",
-    "Academics/Network/Socket/Active Socket.md",
-    "Libraries/React/Component/Hook.md",
+    "Frameworks/UE5/UHT/USTRUCT.md",
+    "Libraries/React/Component/Hook/useState.md",
+    "Libraries/React/Component/Hook/useRef.md",
+    "Libraries/React Query/useQuery.md",
+    "Libraries/React Query/useMutation.md",
+    "Libraries/React/Component/Hook/useContext.md",
+    "Frameworks/UE5/UHT/UPROPERTY.md",
+    "Frameworks/UE5/UHT/UINTERFACE.md",
+    "Frameworks/UE5/UHT/UFUNCTION.md",
+    "Frameworks/UE5/UHT/UCLASS.md",
+    "Libraries/React/Component/State.md",
+    "Frameworks/Next.js/App Router/Special Files.md",
+    "Languages/C++/Smart Pointer.md",
+    "Languages/CSS/Selector.md",
+    "Libraries/React/Fiber/Scheduler.md",
+    "Tools/Git/reset.md",
+    "Libraries/React/Fiber/Render Phase.md",
+    "Libraries/React/Component/Ref.md",
+    "Libraries/React Query/Query Key.md",
     "Academics/Logic Gates/Boolean Algebra.jpg",
-    "Libraries/React/Component.md",
-    "Languages/CSS/Layout.md",
-    "Languages/CSS/Layout/Responsive Layout.md",
-    "Languages/C++.md",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Protocol",
     "Academics/Network/Socket",

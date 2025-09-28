@@ -1,6 +1,5 @@
 ---
 type: library
-parent: "[[Libraries/React Query|React Query]]"
 related:
   - "[[Libraries/React/Component/Hook|Hook]]"
 ---

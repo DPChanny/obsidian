@@ -1,6 +1,5 @@
 ---
 type: language
-parent: "[[C++]]"
 related:
   - "[[Generals/OOP/Abstraction/Interface|Interface]]"
 ---

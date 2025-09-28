@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Academics/Network/Frame|Frame]]"
 ---
 ## 1. 공통 프레임 헤더
 

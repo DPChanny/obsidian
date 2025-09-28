@@ -1,6 +1,5 @@
 ---
 type: academic
-parent: "[[Academics/Network|Network]]"
 ---
 ## 개념
 
