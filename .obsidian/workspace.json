@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f39d0405e06fde9a",
+        "id": "d0942dd76c0c4c01",
         "type": "tabs",
         "children": [
           {
-            "id": "9a22fa200ce7f4c2",
+            "id": "49dc26e287e10dca",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,12 +193,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a22fa200ce7f4c2",
+  "active": "49dc26e287e10dca",
   "lastOpenFiles": [
+    "Frameworks/UE5/UHT/USTRUCT.md",
+    "Frameworks/UE5/UHT/UPROPERTY.md",
+    "Frameworks/UE5/UHT/UINTERFACE.md",
+    "Frameworks/UE5/UHT/UHT.md",
+    "Frameworks/UE5/UHT/UCLASS.md",
+    "Frameworks/UE5/Authority.md",
+    "Frameworks/UE5/FString FName FText TEXT.md",
+    "Frameworks/UE5/FText Localization.md",
+    "Frameworks/UE5/GameModeBase & GameMode.md",
+    "Frameworks/UE5/Seamless Travel.md",
     "Tools/Anaconda/create.md",
     "Libraries/Common UI/Pop Up & Menu.md",
     "Libraries/Common UI/Common User Widget.md",
-    "Frameworks/UE5/Seamless Travel.md",
     "Frameworks/UE5/Initialization.md",
     "Frameworks/UE5/RPC.md",
     "Logs/250930 UE5.md",
@@ -207,20 +216,11 @@
     "Frameworks/UE5/Naming Rule.md",
     "Libraries/React/Component/Hook/useEffect.md",
     "Academics/Network/Frame/Websocket.md",
-    "Frameworks/UE5/UHT/USTRUCT.md",
     "Libraries/React/Component/Hook/useState.md",
     "Libraries/React/Component/Hook/useRef.md",
     "Libraries/React Query/useQuery.md",
     "Libraries/React Query/useMutation.md",
     "Libraries/React/Component/Hook/useContext.md",
-    "Frameworks/UE5/UHT/UPROPERTY.md",
-    "Frameworks/UE5/UHT/UINTERFACE.md",
-    "Frameworks/UE5/UHT/UFUNCTION.md",
-    "Frameworks/UE5/UHT/UCLASS.md",
-    "Libraries/React/Component/State.md",
-    "Frameworks/Next.js/App Router/Special Files.md",
-    "Languages/C++/Smart Pointer.md",
-    "Languages/CSS/Selector.md",
     "Academics/Logic Gates/Boolean Algebra.jpg",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Protocol",
