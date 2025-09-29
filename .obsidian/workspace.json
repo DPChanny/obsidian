@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4f3d8881d3d31a",
+        "id": "f39d0405e06fde9a",
         "type": "tabs",
         "children": [
           {
-            "id": "093a74bdf2d1db39",
+            "id": "9a22fa200ce7f4c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -29,7 +29,7 @@
       {
         "id": "fad9cc57afbf2a41",
         "type": "tabs",
-        "dimension": 29.123468426013194,
+        "dimension": 29.123468426013197,
         "children": [
           {
             "id": "be21e98e7d0bf5af",
@@ -53,7 +53,7 @@
       {
         "id": "5cdfa4f5423b0714",
         "type": "tabs",
-        "dimension": 70.8765315739868,
+        "dimension": 70.87653157398681,
         "children": [
           {
             "id": "cef44486b0ddf47e",
@@ -106,9 +106,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "fdeb7d2a766f6baf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "15726700b62d82f9",
@@ -179,14 +189,20 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "093a74bdf2d1db39",
+  "active": "9a22fa200ce7f4c2",
   "lastOpenFiles": [
+    "Tools/Anaconda/create.md",
     "Libraries/Common UI/Pop Up & Menu.md",
-    "Libraries/Common UI/Common Activatable Widget Stack.md",
     "Libraries/Common UI/Common User Widget.md",
+    "Frameworks/UE5/Seamless Travel.md",
+    "Frameworks/UE5/Initialization.md",
+    "Frameworks/UE5/RPC.md",
+    "Logs/250930 UE5.md",
+    "Libraries/Common UI/Common Activatable Widget Stack.md",
     "Libraries/Common UI/Common User Activatable Widget.md",
     "Frameworks/UE5/Naming Rule.md",
     "Libraries/React/Component/Hook/useEffect.md",
@@ -205,11 +221,6 @@
     "Frameworks/Next.js/App Router/Special Files.md",
     "Languages/C++/Smart Pointer.md",
     "Languages/CSS/Selector.md",
-    "Libraries/React/Fiber/Scheduler.md",
-    "Tools/Git/reset.md",
-    "Libraries/React/Fiber/Render Phase.md",
-    "Libraries/React/Component/Ref.md",
-    "Libraries/React Query/Query Key.md",
     "Academics/Logic Gates/Boolean Algebra.jpg",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Protocol",
