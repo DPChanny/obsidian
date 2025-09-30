@@ -41,7 +41,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "parent\n"
+      "yaml-keys-to-remove": "type"
     },
     "sort-yaml-array-values": {
       "enabled": false,
@@ -272,9 +272,9 @@
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
-  "displayChanged": false,
+  "displayChanged": true,
   "lintOnFileChange": true,
-  "displayLintOnFileChangeNotice": false,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "filesToIgnore": [],
@@ -287,6 +287,6 @@
     "tagArrayStyle": "single-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
   }
 }

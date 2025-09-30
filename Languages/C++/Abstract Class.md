@@ -1,5 +1,4 @@
 ---
-type: language
 related:
   - "[[Generals/OOP/Abstraction/Abstract Class|Abstract Class]]"
 ---

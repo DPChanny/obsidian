@@ -1,5 +1,4 @@
 ---
-type: academic
 ---
 ## 1. 물리 계층 (Physical Layer)
 

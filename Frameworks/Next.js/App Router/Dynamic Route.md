@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 ## 1. 기본 개념
 

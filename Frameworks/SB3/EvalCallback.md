@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 Stable Baselines3 (SB3)의 EvalCallback은 강화학습 모델의 훈련 과정을 객관적으로 평가하고 최상의 모델을 저장하기 위한 핵심 도구입니다. 훈련에 사용되는 환경과는 별개의 평가용 환경(evaluation environment)에서 주기적으로 에이전트의 성능을 측정하여 과적합을 방지하고, 가장 성능이 좋은 시점의 모델을 자동으로 저장해 줍니다.
 EvalCallback의 핵심 기능 및 주요 파라미터

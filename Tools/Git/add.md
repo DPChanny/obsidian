@@ -1,5 +1,4 @@
 ---
-type: tool
 ---
 ## `git add` 명령어 상세 정리
 

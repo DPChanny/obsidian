@@ -1,5 +1,4 @@
 ---
-type: library
 related:
   - "[[Libraries/React/JSX|JSX]]"
 ---

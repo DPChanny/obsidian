@@ -1,5 +1,4 @@
 ---
-type: language
 ---
 ## 개요
 

@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 ## 개념
 

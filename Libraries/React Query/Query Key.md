@@ -1,5 +1,4 @@
 ---
-type: library
 ---
 ## 1. queryKey란 무엇인가?
 

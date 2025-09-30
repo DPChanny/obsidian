@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 ### 1. 클래스 수준: `AActor` 클래스
 

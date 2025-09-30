@@ -1,5 +1,4 @@
 ---
-type: library
 ---
 ## 개념
 

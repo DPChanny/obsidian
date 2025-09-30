@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 1. 역할 및 필요성
 Stable-Baselines3는 이미지(Box space)나 사전(Dict space) 형태의 관측값을 처리하기 위한 기본적인 특징 추출기(CombinedExtractor, NatureCNN)를 내장하고 있다. 하지만, 환경이 더 복잡하거나 특별한 전처리가 필요할 때 기본 추출기로는 한계가 있다.

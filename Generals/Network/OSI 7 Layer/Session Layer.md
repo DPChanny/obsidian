@@ -1,5 +1,4 @@
 ---
-type: academic
 ---
 ## 개념
 

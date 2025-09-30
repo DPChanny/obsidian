@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 ## 1. Next.js는 왜 만들어졌는가?
 

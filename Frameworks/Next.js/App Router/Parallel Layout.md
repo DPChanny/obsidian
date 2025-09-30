@@ -1,5 +1,4 @@
 ---
-type: framework
 related:
   - "[[Frameworks/Next.js/App Router/Layout|Layout]]"
 ---

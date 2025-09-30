@@ -1,5 +1,4 @@
 ---
-type: default
 ---
 ## 개념
 

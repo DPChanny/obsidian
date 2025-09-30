@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 
 #### UINTERFACE의 핵심 역할 (왜 사용하는가?)

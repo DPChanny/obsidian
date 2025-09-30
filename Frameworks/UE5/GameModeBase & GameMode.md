@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 `AGameMode`와 `AGameModeBase`의 차이는 언리얼 엔진의 게임 구조를 이해하는 데 매우 중요한 부분입니다.
 

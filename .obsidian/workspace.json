@@ -81,7 +81,7 @@
       {
         "id": "21c6386174f2364f",
         "type": "tabs",
-        "dimension": 28.079710144927546,
+        "dimension": 50.57096247960848,
         "children": [
           {
             "id": "d75abfe6ecbc6ad2",
@@ -116,17 +116,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "15726700b62d82f9",
-        "type": "tabs",
-        "dimension": 44.47463768115941,
-        "children": [
+          },
           {
-            "id": "81aeb941f9497b93",
+            "id": "10aae498b27f54b4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -139,12 +131,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5804908a59635e04",
         "type": "tabs",
-        "dimension": 27.44565217391305,
+        "dimension": 49.42903752039152,
         "children": [
           {
             "id": "fe7fe6104a0e16d8",
@@ -195,6 +188,10 @@
   },
   "active": "49dc26e287e10dca",
   "lastOpenFiles": [
+    "Libraries/React/Component/Hook.md",
+    "Templates/Log Template.md",
+    "Untitled.base",
+    "Templates",
     "Frameworks/UE5/UHT/USTRUCT.md",
     "Frameworks/UE5/UHT/UPROPERTY.md",
     "Frameworks/UE5/UHT/UINTERFACE.md",
@@ -219,8 +216,6 @@
     "Libraries/React/Component/Hook/useState.md",
     "Libraries/React/Component/Hook/useRef.md",
     "Libraries/React Query/useQuery.md",
-    "Libraries/React Query/useMutation.md",
-    "Libraries/React/Component/Hook/useContext.md",
     "Academics/Logic Gates/Boolean Algebra.jpg",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Protocol",
@@ -229,8 +224,6 @@
     "Academics/KHUDA/4장",
     "Academics/Network",
     "Academics/KHUDA/Track",
-    "Academics/KHUDA/Session/Session 2",
-    "Academics/KHUDA/Session",
-    "Untitled.base"
+    "Academics/KHUDA/Session/Session 2"
   ]
 }

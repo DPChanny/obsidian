@@ -1,5 +1,4 @@
 ---
-type: tool
 ---
 ### 1. Naming Format
 

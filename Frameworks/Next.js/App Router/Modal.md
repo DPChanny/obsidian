@@ -1,5 +1,4 @@
 ---
-type: framework
 ---
 ## 1. 구조적 목표
 

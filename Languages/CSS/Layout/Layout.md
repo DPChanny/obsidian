@@ -1,5 +1,4 @@
 ---
-type: language
 ---
 ## `display` 속성
 
