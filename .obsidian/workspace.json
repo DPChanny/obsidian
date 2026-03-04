@@ -81,7 +81,7 @@
       {
         "id": "21c6386174f2364f",
         "type": "tabs",
-        "dimension": 25.28548123980424,
+        "dimension": 26.064291920069504,
         "children": [
           {
             "id": "d75abfe6ecbc6ad2",
@@ -117,12 +117,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d70b0383a5bda32a",
         "type": "tabs",
-        "dimension": 25.28548123980424,
+        "dimension": 24.500434404865334,
         "children": [
           {
             "id": "10aae498b27f54b4",
@@ -143,7 +144,7 @@
       {
         "id": "5804908a59635e04",
         "type": "tabs",
-        "dimension": 49.42903752039152,
+        "dimension": 49.43527367506516,
         "children": [
           {
             "id": "fe7fe6104a0e16d8",
@@ -185,12 +186,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
-      "templates:Insert template": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "49dc26e287e10dca",
