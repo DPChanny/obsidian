@@ -1,16 +1,16 @@
 {
   "workspaces": {
-    "Main": {
+    "Default": {
       "main": {
         "id": "6c49a24d053b9421",
         "type": "split",
         "children": [
           {
-            "id": "45e3bb794b53321e",
+            "id": "305d3ff6e7562e02",
             "type": "tabs",
             "children": [
               {
-                "id": "99d529cf53bc2cff",
+                "id": "adc158cac6571c84",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -29,9 +29,9 @@
         "type": "split",
         "children": [
           {
-            "id": "fad9cc57afbf2a41",
+            "id": "c6ae63b20403c669",
             "type": "tabs",
-            "dimension": 18.832391713747647,
+            "dimension": 21.657250470809792,
             "children": [
               {
                 "id": "be21e98e7d0bf5af",
@@ -55,7 +55,7 @@
           {
             "id": "5cdfa4f5423b0714",
             "type": "tabs",
-            "dimension": 81.16760828625236,
+            "dimension": 78.3427495291902,
             "children": [
               {
                 "id": "cef44486b0ddf47e",
@@ -69,12 +69,22 @@
                   "icon": "lucide-folder-closed",
                   "title": "Files"
                 }
+              },
+              {
+                "id": "ca18f2b4d5254fc9",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 268.5
       },
       "right": {
         "id": "621911166bcf7472",
@@ -83,16 +93,18 @@
           {
             "id": "21c6386174f2364f",
             "type": "tabs",
-            "dimension": 18.115942028985508,
+            "dimension": 18.158123370981755,
             "children": [
               {
                 "id": "d75abfe6ecbc6ad2",
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "Frameworks/UE5/FString FName FText TEXT.md"
+                  },
                   "icon": "lucide-info",
-                  "title": "File properties"
+                  "title": "File properties for FString FName FText TEXT"
                 }
               }
             ]
@@ -100,7 +112,7 @@
           {
             "id": "15726700b62d82f9",
             "type": "tabs",
-            "dimension": 38.677536231884055,
+            "dimension": 39.791485664639445,
             "children": [
               {
                 "id": "81aeb941f9497b93",
@@ -121,7 +133,7 @@
           {
             "id": "3254ea25e8e9a43e",
             "type": "tabs",
-            "dimension": 43.20652173913043,
+            "dimension": 42.050390964378806,
             "children": [
               {
                 "id": "a9ce40c65a3a0868",
@@ -129,12 +141,11 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Frameworks/React/Fiber/Complete Phase.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Complete Phase"
+                  "title": "Outgoing links"
                 }
               },
               {
@@ -155,8 +166,7 @@
                   "title": "Backlinks"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -164,14 +174,16 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "templates:Insert template": false,
+          "obsidian-git:Open Git source control": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "99d529cf53bc2cff",
-      "mtime": "2025-06-16T03:16:04+09:00"
+      "active": "adc158cac6571c84",
+      "mtime": "2026-03-06T08:09:03+09:00"
     }
   },
-  "active": "Main"
+  "active": "Default"
 }

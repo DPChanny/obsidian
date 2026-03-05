@@ -27,9 +27,9 @@
     "type": "split",
     "children": [
       {
-        "id": "fad9cc57afbf2a41",
+        "id": "c6ae63b20403c669",
         "type": "tabs",
-        "dimension": 18.832391713747647,
+        "dimension": 21.657250470809792,
         "children": [
           {
             "id": "be21e98e7d0bf5af",
@@ -53,7 +53,7 @@
       {
         "id": "5cdfa4f5423b0714",
         "type": "tabs",
-        "dimension": 81.16760828625236,
+        "dimension": 78.3427495291902,
         "children": [
           {
             "id": "cef44486b0ddf47e",
@@ -67,12 +67,23 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "ca18f2b4d5254fc9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 268.5
   },
   "right": {
     "id": "621911166bcf7472",
@@ -94,33 +105,8 @@
               "icon": "lucide-info",
               "title": "File properties for FString FName FText TEXT"
             }
-          },
-          {
-            "id": "28b3a7ca45a4bb7e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "ca18f2b4d5254fc9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "15726700b62d82f9",
@@ -154,12 +140,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/React/Fiber/Complete Phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Complete Phase"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,8 +165,7 @@
               "title": "Backlinks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "adc158cac6571c84",
+  "active": "ca18f2b4d5254fc9",
   "lastOpenFiles": [
     "Academics/Logic Gates/Boolean Algebra.jpg",
     "Frameworks/UE5/FString FName FText TEXT.md",
