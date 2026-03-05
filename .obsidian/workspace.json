@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0942dd76c0c4c01",
+        "id": "305d3ff6e7562e02",
         "type": "tabs",
         "children": [
           {
-            "id": "49dc26e287e10dca",
+            "id": "adc158cac6571c84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "fad9cc57afbf2a41",
         "type": "tabs",
-        "dimension": 29.123468426013197,
+        "dimension": 18.832391713747647,
         "children": [
           {
             "id": "be21e98e7d0bf5af",
@@ -53,7 +53,7 @@
       {
         "id": "5cdfa4f5423b0714",
         "type": "tabs",
-        "dimension": 70.87653157398681,
+        "dimension": 81.16760828625236,
         "children": [
           {
             "id": "cef44486b0ddf47e",
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "621911166bcf7472",
@@ -81,20 +81,22 @@
       {
         "id": "21c6386174f2364f",
         "type": "tabs",
-        "dimension": 26.064291920069504,
+        "dimension": 18.158123370981755,
         "children": [
           {
             "id": "d75abfe6ecbc6ad2",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frameworks/UE5/FString FName FText TEXT.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for FString FName FText TEXT"
             }
           },
           {
-            "id": "f27092ef6e70a957",
+            "id": "28b3a7ca45a4bb7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -108,7 +110,7 @@
             }
           },
           {
-            "id": "fdeb7d2a766f6baf",
+            "id": "ca18f2b4d5254fc9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -121,12 +123,12 @@
         "currentTab": 2
       },
       {
-        "id": "d70b0383a5bda32a",
+        "id": "15726700b62d82f9",
         "type": "tabs",
-        "dimension": 24.500434404865334,
+        "dimension": 39.791485664639445,
         "children": [
           {
-            "id": "10aae498b27f54b4",
+            "id": "81aeb941f9497b93",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -142,10 +144,24 @@
         ]
       },
       {
-        "id": "5804908a59635e04",
+        "id": "3254ea25e8e9a43e",
         "type": "tabs",
-        "dimension": 49.43527367506516,
+        "dimension": 42.050390964378806,
         "children": [
+          {
+            "id": "a9ce40c65a3a0868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frameworks/React/Fiber/Complete Phase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Complete Phase"
+            }
+          },
           {
             "id": "fe7fe6104a0e16d8",
             "type": "leaf",
@@ -163,19 +179,6 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
-          },
-          {
-            "id": "a9ce40c65a3a0868",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
           }
         ],
         "currentTab": 1
@@ -186,15 +189,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49dc26e287e10dca",
+  "active": "adc158cac6571c84",
   "lastOpenFiles": [
+    "Academics/Logic Gates/Boolean Algebra.jpg",
+    "Frameworks/UE5/FString FName FText TEXT.md",
+    "Frameworks/UE5/Authority.md",
     "Libraries/React/Component/Hook.md",
     "Templates/Log Template.md",
     "Untitled.base",
@@ -204,8 +210,6 @@
     "Frameworks/UE5/UHT/UINTERFACE.md",
     "Frameworks/UE5/UHT/UHT.md",
     "Frameworks/UE5/UHT/UCLASS.md",
-    "Frameworks/UE5/Authority.md",
-    "Frameworks/UE5/FString FName FText TEXT.md",
     "Frameworks/UE5/FText Localization.md",
     "Frameworks/UE5/GameModeBase & GameMode.md",
     "Frameworks/UE5/Seamless Travel.md",
@@ -222,8 +226,6 @@
     "Academics/Network/Frame/Websocket.md",
     "Libraries/React/Component/Hook/useState.md",
     "Libraries/React/Component/Hook/useRef.md",
-    "Libraries/React Query/useQuery.md",
-    "Academics/Logic Gates/Boolean Algebra.jpg",
     "Academics/Network/OSI 7 Layer",
     "Academics/Network/Protocol",
     "Academics/Network/Socket",

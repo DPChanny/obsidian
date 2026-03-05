@@ -2,5 +2,6 @@
   "folders2graph",
   "obsidian-latex-suite",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]
