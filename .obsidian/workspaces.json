@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "305d3ff6e7562e02",
+            "id": "a38b183f42b49268",
             "type": "tabs",
             "children": [
               {
-                "id": "adc158cac6571c84",
+                "id": "f4b63c25cccd3a69",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -31,7 +31,7 @@
           {
             "id": "c6ae63b20403c669",
             "type": "tabs",
-            "dimension": 21.657250470809792,
+            "dimension": 21.65725047080979,
             "children": [
               {
                 "id": "be21e98e7d0bf5af",
@@ -55,7 +55,7 @@
           {
             "id": "5cdfa4f5423b0714",
             "type": "tabs",
-            "dimension": 78.3427495291902,
+            "dimension": 78.34274952919021,
             "children": [
               {
                 "id": "cef44486b0ddf47e",
@@ -80,11 +80,12 @@
                   "title": "Source Control"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 268.5
+        "width": 313.5
       },
       "right": {
         "id": "621911166bcf7472",
@@ -100,11 +101,23 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "Frameworks/UE5/FString FName FText TEXT.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for FString FName FText TEXT"
+                  "title": "File properties"
+                }
+              },
+              {
+                "id": "fc6de9fee01df152",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -181,8 +194,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "adc158cac6571c84",
-      "mtime": "2026-03-06T08:09:03+09:00"
+      "active": "f4b63c25cccd3a69",
+      "mtime": "2026-03-07T18:12:42+09:00"
     }
   },
   "active": "Default"
