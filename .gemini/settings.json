@@ -5,7 +5,7 @@
       "args": ["-y", "@jianruidutong/obsidian-mcp"],
       "env": {
         "OBSIDIAN_API_KEY": "64895fcb727797187de75fa90cd254ce7e67438ba3a17568547f9104cfcfe4ad",
-        "OBSIDIAN_BASE_URL": "http://127.0.0.1:27124",
+        "OBSIDIAN_BASE_URL": "https://127.0.0.1:27124/",
         "OBSIDIAN_VAULT_PATH": "C:\\Obsidian"
       }
     }
