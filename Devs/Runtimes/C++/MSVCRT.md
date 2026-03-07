@@ -1,8 +1,11 @@
 ---
-tags: [runtime, c, windows]
+tags:
+  - runtime
+  - c
+  - windows
 related:
-  - "[[Devs/C/UCRT|UCRT]]"
-  - "[[Devs/C/MinGW|MinGW]]"
+  - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
+  - "[[Devs/Toolchains/C++/MinGW|MinGW]]"
 ---
 
 **Microsoft Visual C++ Runtime**의 레거시 버전(msvcrt.dll)을 의미하며, 이전 세대 Windows 환경의 기본 C 표준 라이브러리임.
@@ -13,4 +16,4 @@ related:
 - **Static Linking**: 버전별 파편화 문제를 해결하기 위해 정적 링크를 자주 사용함.
 
 ## 현대적 위상
-- 현재는 [[Devs/C/UCRT|UCRT]]로 대체되는 추세이며, MSYS2의 **MINGW64** 환경에서 호환성 목적으로 주로 사용됨.
+- 현재는 [[Devs/Runtimes/C++/UCRT|UCRT]]로 대체되는 추세이며, MSYS2의 **MINGW64** 환경에서 호환성 목적으로 주로 사용됨.

@@ -1,8 +1,8 @@
 ---
 tags: [toolchain, dotnet]
 related:
-  - "[[Devs/DotNet/CLR|CLR]]"
-  - "[[Devs/Generals/Toolchain|Toolchain]]"
+  - "[[Devs/Runtimes/DotNet/CLR|CLR]]"
+  - "[[Devs/Toolchains/Toolchain|Toolchain]]"
 ---
 
 Microsoft에서 개발한 오픈 소스 .NET 컴파일러 플랫폼으로, C# 및 Visual Basic 코드를 분석하고 IL(Intermediate Language)로 컴파일함.

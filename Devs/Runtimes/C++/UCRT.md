@@ -1,9 +1,12 @@
 ---
-tags: [runtime, c, windows]
+tags:
+  - runtime
+  - c
+  - windows
 related:
-  - "[[Devs/C/MSVCRT|MSVCRT]]"
-  - "[[Devs/C/MSVC|MSVC]]"
-  - "[[Devs/C/MSYS2|MSYS2]]"
+  - "[[Devs/Runtimes/C++/MSVCRT|MSVCRT]]"
+  - "[[Devs/Toolchains/C++/MSVC|MSVC]]"
+  - "[[Devs/Toolchains/C++/MSYS2|MSYS2]]"
 ---
 
 **Universal C Runtime**의 약자로, Windows 10 이후 OS의 핵심 구성 요소로 포함된 최신 C 표준 라이브러리임.

@@ -1,9 +1,12 @@
 ---
-tags: [toolchain, c, windows]
+tags:
+  - toolchain
+  - c
+  - windows
 related:
-  - "[[Devs/C/MSYS2|MSYS2]]"
-  - "[[Devs/C/UCRT|UCRT]]"
-  - "[[Devs/C/MSVCRT|MSVCRT]]"
+  - "[[Devs/Toolchains/C++/MSYS2|MSYS2]]"
+  - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
+  - "[[Devs/Runtimes/C++/MSVCRT|MSVCRT]]"
 ---
 
 **Minimalist GNU for Windows**의 약자로, GCC(GNU Compiler Collection)를 Windows 환경에서 네이티브로 사용할 수 있도록 포팅한 툴체인임.

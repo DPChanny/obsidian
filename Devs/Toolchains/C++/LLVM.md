@@ -1,7 +1,7 @@
 ---
 tags: [toolchain, c]
 related:
-  - "[[Devs/Generals/Toolchain|Toolchain]]"
+  - "[[Devs/Toolchains/Toolchain|Toolchain]]"
 ---
 
 컴파일러 인프라스트럭처 프로젝트로, 모듈화된 재사용 가능한 컴파일러 및 툴체인 기술의 집합임.
@@ -18,4 +18,4 @@ related:
 - **다양한 타겟**: 단일 코드베이스에서 수많은 CPU 아키텍처를 지원함.
 
 ## MSYS2와의 관계
-- **CLANG64 환경**: MSYS2에서 LLVM/Clang 툴체인을 기본으로 사용하는 환경으로, [[Devs/C/UCRT|UCRT]] 런타임과 결합됨.
+- **CLANG64 환경**: MSYS2에서 LLVM/Clang 툴체인을 기본으로 사용하는 환경으로, [[Devs/Runtimes/C++/UCRT|UCRT]] 런타임과 결합됨.

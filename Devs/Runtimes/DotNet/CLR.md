@@ -1,8 +1,8 @@
 ---
 tags: [runtime, dotnet]
 related:
-  - "[[Devs/DotNet/Roslyn|Roslyn]]"
-  - "[[Devs/Generals/Runtime|Runtime]]"
+  - "[[Devs/Toolchains/DotNet/Roslyn|Roslyn]]"
+  - "[[Devs/Runtimes/Runtime|Runtime]]"
 ---
 
 **Common Language Runtime**의 약자로, .NET 애플리케이션이 실행되는 가상 머신(VM) 환경임.
