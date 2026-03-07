@@ -1,7 +1,6 @@
 ---
 related:
   - "[[Devs/Runtimes/Runtime|Runtime]]"
-  - "[[Devs/Toolchains/C++/MSYS2|MSYS2]]"
 ---
 
 소스 코드를 실행 가능한 바이너리(Executable) 제품으로 변환하기 위해 연쇄적으로 사용되는 개발 도구의 집합임.
