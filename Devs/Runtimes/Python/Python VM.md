@@ -1,5 +1,4 @@
 ---
-tags: [runtime, python]
 related:
   - "[[Devs/Toolchains/Python/CPython|CPython]]"
   - "[[Devs/Runtimes/Runtime|Runtime]]"

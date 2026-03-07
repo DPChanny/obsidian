@@ -1,8 +1,4 @@
 ---
-tags:
-  - runtime
-  - c
-  - windows
 related:
   - "[[Devs/Runtimes/C++/MSVCRT|MSVCRT]]"
   - "[[Devs/Toolchains/C++/MSVC|MSVC]]"

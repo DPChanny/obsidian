@@ -1,8 +1,4 @@
 ---
-tags:
-  - toolchain
-  - c
-  - windows
 related:
   - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"

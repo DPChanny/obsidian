@@ -1,5 +1,4 @@
 ---
-tags: [toolchain, python]
 related:
   - "[[Devs/Runtimes/Python/Python VM|Python VM]]"
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"

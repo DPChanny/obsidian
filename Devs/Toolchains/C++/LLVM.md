@@ -1,5 +1,4 @@
 ---
-tags: [toolchain, c]
 related:
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"
 ---

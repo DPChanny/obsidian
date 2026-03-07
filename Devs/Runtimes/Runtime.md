@@ -1,6 +1,4 @@
 ---
-tags:
-  - concept
 related:
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"
   - "[[Devs/Runtimes/C++/UCRT|UCRT]]"

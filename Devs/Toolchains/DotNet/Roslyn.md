@@ -1,5 +1,4 @@
 ---
-tags: [toolchain, dotnet]
 related:
   - "[[Devs/Runtimes/DotNet/CLR|CLR]]"
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"

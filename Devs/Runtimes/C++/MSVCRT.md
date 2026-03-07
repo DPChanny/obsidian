@@ -1,8 +1,4 @@
 ---
-tags:
-  - runtime
-  - c
-  - windows
 related:
   - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
   - "[[Devs/Toolchains/C++/MinGW|MinGW]]"

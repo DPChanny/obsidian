@@ -1,5 +1,4 @@
 ---
-tags: [runtime, dotnet]
 related:
   - "[[Devs/Toolchains/DotNet/Roslyn|Roslyn]]"
   - "[[Devs/Runtimes/Runtime|Runtime]]"

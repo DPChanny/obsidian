@@ -1,6 +1,4 @@
 ---
-tags:
-  - concept
 related:
   - "[[Devs/Runtimes/Runtime|Runtime]]"
   - "[[Devs/Toolchains/C++/MSYS2|MSYS2]]"
