@@ -1,7 +1,6 @@
 ---
 related:
   - "[[Devs/Runtimes/Runtime|Runtime]]"
-  - "[[Devs/Tools/MSYS2|MSYS2]]"
   - "[[Devs/Toolchains/C++/LLVM|LLVM]]"
   - "[[Devs/Toolchains/C++/MinGW|MinGW]]"
   - "[[Devs/Toolchains/C++/MSVC|MSVC]]"

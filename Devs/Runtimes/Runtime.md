@@ -2,7 +2,6 @@
 related:
   - "[[Devs/Toolchains/Toolchain|Toolchain]]"
   - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
-  - "[[Devs/Runtimes/DotNet/CLR|CLR]]"
   - "[[Devs/Runtimes/Python/Python VM|Python VM]]"
 ---
 
