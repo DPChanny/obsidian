@@ -1,6 +1,5 @@
 ---
 related:
-  - "[[Devs/Tools/MSYS2|MSYS2]]"
   - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
   - "[[Devs/Runtimes/C++/MSVCRT|MSVCRT]]"
 ---
