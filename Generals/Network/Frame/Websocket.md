@@ -1,8 +1,9 @@
 ---
 ---
+
 ## 1. 프레임 구조 개요 (바이트 단위)
 
-```
+```bash
 [0]  FIN | RSV1 | RSV2 | RSV3 | OPCODE
 [1]  MASK | PAYLOAD LEN (7 bits)
 [2~?] Extended Payload Length (if 126 or 127)
@@ -15,7 +16,7 @@
 
 ## 2. 각 필드 상세
 
-### ▍1바이트: FIN + RSVx + OPCODE
+### 1바이트: FIN + RSVx + OPCODE
 
 - **FIN (1bit)**: 메시지의 마지막 프레임인지 (1이면 끝)
 - **RSV1~3 (3bit)**: 확장용 (항상 0)
@@ -31,7 +32,7 @@
 
 ---
 
-### ▍1바이트: MASK + Payload Length
+### 1바이트: MASK + Payload Length
 
 - **MASK (1bit)**: 클라이언트 → 서버면 항상 1
 - **Length (7bit)**:
@@ -41,14 +42,14 @@
 
 ---
 
-### ▍확장 길이 필드 (조건부)
+### 확장 길이 필드 (조건부)
 
 - Length = 126 → `2바이트` (`!H` struct 사용)
 - Length = 127 → `8바이트` (`!Q` struct 사용)
 
 ---
 
-### ▍마스크 키 + 마스킹된 데이터
+### 마스크 키 + 마스킹된 데이터
 
 - 4바이트 난수 마스크 키 사용 (클라이언트 → 서버일 때 필수)
 - 마스킹: 각 바이트를 마스크 키와 XOR
@@ -133,7 +134,7 @@ print(frame)
 - `struct`는 이 바이트 포맷을 정확하게 생성하기 위한 **필수 도구**
 - WebSocket은 결국 `[헤더][확장길이?][마스크 키][마스킹 데이터]` 구조를 따를 수밖에 없다
 
-```
+```bash
 Frame = [FIN + OPCODE][MASK + LEN][ExtendedLen][MaskKey][MaskedPayload]
 
 ```

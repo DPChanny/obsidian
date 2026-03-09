@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Tools/Git/Git Convention/Git Convention|Git Convention]]"
 ---
+
 ### 1. 브랜치 파생 원칙 (Rule 1)
 
 **정의**: 각 브랜치는 반드시 지정된 기준 브랜치(Merge-base)에서만 생성함.

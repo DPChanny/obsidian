@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Render Phase는 React가 새 UI를 계산하는 단계**다.
@@ -21,7 +22,7 @@ Fiber는 **각 컴포넌트마다 두 개의 버퍼를 유지**한다:
 
 이 둘은 `alternate` 포인터로 서로 연결되어 있으며, 다음과 같은 형태다:
 
-```
+```bash
 [A 컴포넌트]
 current        ←→       workInProgress
   (현재 상태)              (새 상태 계산 중)
@@ -57,7 +58,7 @@ current        ←→       workInProgress
 
 ## 예시 흐름
 
-```
+```bash
 setState() 호출
   ↓
 current Fiber 트리 복사 → workInProgress 트리 생성

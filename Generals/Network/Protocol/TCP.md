@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 TCP는 신뢰성 있는 바이트 스트림 전송을 보장하는 전송 계층 프로토콜이다.
@@ -21,14 +22,14 @@ TCP는 신뢰성 있는 바이트 스트림 전송을 보장하는 전송 계층
 
 ### 클라이언트
 
-```
+```bash
 CLOSED → SYN_SENT → ESTABLISHED
 
 ```
 
 ### 서버
 
-```
+```bash
 CLOSED → LISTEN → SYN_RECEIVED → ESTABLISHED
 
 ```
@@ -48,7 +49,7 @@ CLOSED → LISTEN → SYN_RECEIVED → ESTABLISHED
 - ESTABLISHED
 - accept() 대상
 
-```
+```bash
 SYN → Passive Queue
 ACK → Active Queue
 accept() → 사용자 반환
@@ -69,7 +70,7 @@ accept() → 사용자 반환
 - 커널 수신 버퍼
 - recv()로 읽음
 
-```
+```bash
 Application → send() → Send Queue → TCP
 TCP → Receive Queue → recv() → Application
 
@@ -79,7 +80,7 @@ TCP → Receive Queue → recv() → Application
 
 ## 예시 흐름
 
-```
+```bash
 [Client]                     [Server]
 connect()                 listen()
 → SYN                   → Passive Queue

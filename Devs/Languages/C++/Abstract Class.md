@@ -2,6 +2,7 @@
 related:
   - "[[Generals/OOP/Abstraction/Abstract Class|Abstract Class]]"
 ---
+
 ## 정의 방식
 
 - 추상 클래스는 **하나 이상의 순수 가상 함수(pure virtual function)**를 포함한다.

@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. queryClient란?
 
 React Query의 queryClient는
@@ -16,7 +17,7 @@ const queryClient = new QueryClient()
 
 ---
 
-## 2. 전역 queryClient – CSR에서의 기본 구조
+## 2. 전역 queryClient–CSR에서의 기본 구조
 
 React Query는 **하나의 queryClient 인스턴스를 전역으로 공유**하는 구조를 기본으로 한다.
 

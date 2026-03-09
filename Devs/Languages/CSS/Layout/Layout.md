@@ -1,5 +1,6 @@
 ---
 ---
+
 ## `display` 속성
 
 요소의 기본 배치 방식을 결정하는 가장 기본적인 속성이다.
@@ -20,7 +21,7 @@
 
 ```
 
-```
+```bash
 block → 한 줄 전체 차지, 줄 바꿈 발생 (div 등)
 inline → 내용만큼 차지, 줄 바꿈 없음, width/height 적용 불가 (span 등)
 inline-block → inline처럼 배치 + 사이즈 지정 가능

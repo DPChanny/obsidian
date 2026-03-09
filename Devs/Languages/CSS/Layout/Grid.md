@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개요
 
 CSS Grid는 **가로 + 세로 모두를 동시에 배치할 수 있는** 강력한 레이아웃 도구다.
@@ -15,7 +16,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ---
 
-## grid-template-columns / rows – 행과 열 구성
+## grid-template-columns / rows–행과 열 구성
 
 ```css
 .grid-container {
@@ -26,7 +27,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ```
 
-```
+```bash
 → 열: 첫 열 100px, 둘째는 1비율, 셋째는 2비율
 → 행: 첫 행 50px, 둘째 행 100px
 
@@ -34,7 +35,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ---
 
-## gap – 셀 사이 간격 설정
+## gap–셀 사이 간격 설정
 
 ```css
 .grid-container {
@@ -52,7 +53,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ---
 
-## repeat(), fr 단위 – 유연한 레이아웃
+## repeat(), fr 단위–유연한 레이아웃
 
 ```css
 .grid-container {
@@ -62,7 +63,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ```
 
-```
+```bash
 → 1fr 1fr 1fr과 같음
 → 동일한 비율로 3등분
 
@@ -70,7 +71,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ---
 
-## grid-column / grid-row – 셀 병합
+## grid-column / grid-row–셀 병합
 
 ```css
 .item1 {
@@ -82,7 +83,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ```
 
-```
+```bash
 → item1은 1~3번 열까지 가로 병합 (2칸)
 → item2는 1~3번 행까지 세로 병합 (2칸)
 
@@ -92,7 +93,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ---
 
-## grid-template-areas – 시멘틱한 영역 정의
+## grid-template-areas–시멘틱한 영역 정의
 
 ```css
 .grid {
@@ -120,7 +121,7 @@ Flexbox가 한 줄 정렬이라면, Grid는 **행과 열 모두를 직접 정의
 
 ```
 
-```
+```bash
 → 영역별 이름으로 직관적으로 레이아웃 구성 가능
 
 ```

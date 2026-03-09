@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Fiber는 React 렌더링의 핵심 구조다.**
@@ -48,17 +49,16 @@ Fiber는 컴포넌트를 단순한 트리로 보는 대신, 각 노드를 `Fiber
 Fiber 구조는 React 렌더링을 다음과 같은 **3단계로 분리**해 처리하게 만든다:
 
 1. **Render Phase (Work Phase)**
-    
+
     변경을 계산하고 어떤 작업이 필요한지 판단
-    
+
 2. **Complete Phase**
-    
+
     DOM 변경을 위한 구체적인 명령 목록(Effect List) 작성
-    
+
 3. **Commit Phase**
-    
+
     실제 DOM에 반영 + lifecycle hook 실행
-    
 
 이 구조 덕분에 React는 **렌더링 성능과 사용자 경험을 모두 지키는 방향**으로 진화할 수밖에 없었다.
 

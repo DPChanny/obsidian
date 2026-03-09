@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Hook|Hook]]"
 ---
+
 ## 1. 개요
 
 `useMutation`은 서버에 데이터를 **보내는** 동작을 담당한다.

@@ -2,6 +2,7 @@
 related:
   - "[[Generals/OOP/Encapsulation|Encapsulation]]"
 ---
+
 ## 접근 제한자 기본
 
 C++ 클래스 멤버는 다음과 같은 접근 제한자를 갖는다.
@@ -134,7 +135,7 @@ int main() {
 
 결과:
 
-```
+```bash
 Secret data: 42
 ```
 

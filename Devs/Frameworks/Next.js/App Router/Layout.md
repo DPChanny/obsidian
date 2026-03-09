@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. layout.tsx란 무엇인가
 
 `layout.tsx`는 해당 디렉토리와 그 하위 경로에 공통으로 적용되는 UI 컴포넌트다.
@@ -34,7 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
 다단계 layout 중첩 구조 예시:
 
-```
+```bash
 /app
   └── layout.tsx                   → 전역 layout
   └── dashboard
@@ -95,7 +96,7 @@ layout은 **한 번 렌더링된 이후에는 페이지 전환 시 다시 렌더
 
 예를 들어 `/dashboard/users` → `/dashboard/users/123`으로 이동할 경우:
 
-```
+```bash
 app/layout.tsx (유지)
 └─ dashboard/layout.tsx (유지)
    └─ users/layout.tsx (유지)

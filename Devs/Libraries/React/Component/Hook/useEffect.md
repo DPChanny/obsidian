@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Lifecycle|Lifecycle]]"
 ---
+
 ## 개념
 
 `useEffect`는 함수형 컴포넌트가 렌더링된 후 특정 작업을 수행하도록 하는 Hook이다.

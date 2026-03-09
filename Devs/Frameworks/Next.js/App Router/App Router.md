@@ -1,12 +1,13 @@
 ---
 ---
+
 # Next.js App Router 개요와 철학
 
 ## 1. App Router는 단순한 라우터가 아니다
 
 Next.js의 App Router는 단순히 URL과 컴포넌트를 연결하는 라우터가 아니다.
 
-**UI의 구조를 코드로 강제하는 방식**이며, React의 “UI is a function of state”를 넘어 **“UI is a function of structure”**라는 철학을 따른다.
+**UI의 구조를 코드로 강제하는 방식**이며, React의 "UI is a function of state"를 넘어 **"UI is a function of structure"**라는 철학을 따른다.
 
 폴더 구조로 URL과 layout을 정의하게 되면, 개발자는 어쩔 수 없이 **구조적 사고**를 하게 된다.
 
@@ -22,7 +23,7 @@ App Router는 다음을 전제로 한다:
 - 각 디렉토리마다 layout.tsx를 둘 수 있고, 이는 중첩된다
 - 파일 시스템이 곧 URL이고, 이는 곧 UI 구조다
 
-```
+```bash
 /app
   └── layout.tsx            → 전체 layout
   └── dashboard

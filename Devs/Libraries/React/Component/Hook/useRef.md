@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Ref|Ref]]"
 ---
+
 `useRef`는 React 함수형 컴포넌트 내부에서 **값을 저장하고 유지하기 위한 훅**이다.
 
 렌더링 사이에서도 사라지지 않는 **mutable한 객체 컨테이너**를 제공하며, 이 객체는 `.current`라는 속성을 가진다.

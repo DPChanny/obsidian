@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Complete Phase는 Render Phase에서 계산된 Fiber 트리를 정리하는 단계**다.
@@ -13,9 +14,9 @@ React는 이 시점에 어떤 DOM 조작이 필요한지를 판단하고, 이를
 ## 작동 방식
 
 1. **Fiber 트리 후방 순회 (부모 → 자식)**
-    
+
     Render Phase에서는 자식부터 올라가는 DFS였지만, 여기서는 부모에서 자식으로 내려가며 각 Fiber의 작업을 정리한다.
-    
+
 2. **Effect Tag 확인**
     
     - 각 Fiber의 `flags`를 기반으로 DOM 변경이 필요한지를 판단한다:
@@ -44,7 +45,7 @@ React는 이 시점에 어떤 DOM 조작이 필요한지를 판단하고, 이를
 
 ## 예시 흐름
 
-```
+```bash
 Render Phase → workInProgress 트리 구성
   ↓
 Complete Phase 시작

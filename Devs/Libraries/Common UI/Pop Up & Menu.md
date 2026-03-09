@@ -1,7 +1,5 @@
 - **`UInputPopupWidget`**: 사용자에게 텍스트 입력을 받고, '확인' 버튼을 누르면 입력된 텍스트를 담아 델리게이트를 호출하는 Activatable Widget
-    
 - **`UMainMenuWidget`**: '이름 변경' 버튼을 누르면 위 팝업을 띄우고, 팝업이 전달한 텍스트 값을 받아서 화면에 표시하는 메인 위젯
-    
 
 ---
 
@@ -10,6 +8,7 @@
 이 위젯은 데이터를 **보내는(Sender)** 역할을 합니다.
 
 #### **InputPopupWidget.h**
+
 ```cpp
 #pragma once
 
@@ -59,6 +58,7 @@ private:
 ```
 
 #### **InputPopupWidget.cpp**
+
 ```cpp
 #include "InputPopupWidget.h"
 #include "Components/EditableText.h" // CommonEditableText 대신 기본 EditableText를 사용할 경우 필요
@@ -109,6 +109,7 @@ void UInputPopupWidget::HandleCancelClicked()
 이 위젯은 팝업을 띄우고 데이터를 **받는(Receiver)** 역할을 합니다.
 
 #### **MainMenuWidget.h**
+
 ```cpp
 #pragma once
 
@@ -156,6 +157,7 @@ private:
 ```
 
 #### **MainMenuWidget.cpp**
+
 ```cpp
 #include "MainMenuWidget.h"
 #include "CommonButtonBase.h"
@@ -207,18 +209,11 @@ void UMainMenuWidget::HandlePopupInputConfirm(const FString& InputText)
 ### 실행 흐름 정리
 
 1. `MainMenuWidget`에서 `OpenInputPopupButton`을 클릭하면 `HandleOpenPopupClicked` 함수가 호출됩니다.
-    
 2. `PopupWidgetStack->PushWidgetClass`를 통해 `InputPopupWidget`의 **새 인스턴스가 생성**되고 화면에 활성화됩니다.
-    
 3. 생성된 인스턴스의 `OnInputConfirm` 델리게이트에 `MainMenuWidget`의 `HandlePopupInputConfirm` 함수를 **`AddDynamic`으로 연결(바인딩)**합니다.
-    
 4. 사용자가 팝업의 텍스트 박스에 "MyPlayerName"을 입력하고 '확인' 버튼을 누릅니다.
-    
 5. `InputPopupWidget`의 `HandleConfirmClicked` 함수가 호출되어, 입력된 텍스트 "MyPlayerName"을 담아 `OnInputConfirm.Broadcast()`를 실행합니다.
-    
 6. `Broadcast`는 3단계에서 연결해 두었던 `MainMenuWidget`의 `HandlePopupInputConfirm` 함수를 **자동으로 호출**하면서 "MyPlayerName" 문자열을 인자로 전달합니다.
-    
 7. `MainMenuWidget`은 전달받은 텍스트로 `ResultText`를 업데이트하고, `InputPopupWidget`은 `DeactivateWidget()`을 호출하여 화면에서 사라집니다.
-    
 
 이러한 델리게이트 콜백 패턴은 각 위젯이 서로를 직접적으로 알 필요 없이 **느슨하게 결합(Loosely Coupled)**된 상태로 통신할 수 있게 해주므로, 재사용성이 높고 체계적인 UI 아키텍처를 만드는 데 매우 효과적입니다.

@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 이 디자인 시스템은 **Next.js 기반 공통 UI 시스템**이다.
@@ -28,7 +29,7 @@ export function cn(...inputs: ClassValue[]): string {
 
 ---
 
-### 초반 – Tailwind 유틸리티 기반
+### 초반–Tailwind 유틸리티 기반
 
 - variant는 모두 Tailwind class 문자열로 직접 정의
 - 반응형은 `md:`, `lg:` 같은 기본 프리픽스만 사용
@@ -62,7 +63,7 @@ const buttonVariants = cva(
 
 ---
 
-### 중반 – Tailwind + CSS Module 병행
+### 중반–Tailwind + CSS Module 병행
 
 - variant 일부는 CSS Module 사용, 일부는 여전히 Tailwind 유틸리티 사용
 - `@apply`는 purge 이슈로 중단하고 클래스 이름만 모듈에서 관리
@@ -129,7 +130,7 @@ const buttonVariants = cva(styles.button, {
 
 ---
 
-### 후반 – 완전한 CSS Module 중심
+### 후반–완전한 CSS Module 중심
 
 - 모든 스타일은 `.module.css`에서 관리
 - Tailwind는 거의 제거, 스타일 토큰은 모두 CSS 변수로 선언
@@ -241,7 +242,7 @@ Button.displayName = "Button";
 
 ---
 
-## IconButton 확장 – Variant 상속 + 자체 Variant 병합
+## IconButton 확장–Variant 상속 + 자체 Variant 병합
 
 `IconButton`은 `Button`의 variant 시스템을 하위로 주입하면서, 자체적인 `shape`, `emphasis`, `size` variant 시스템을 갖는다.
 

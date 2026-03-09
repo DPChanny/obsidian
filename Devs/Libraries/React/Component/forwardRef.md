@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Ref|Ref]]"
 ---
+
 # forwardRef
 
 `forwardRef`는 React에서 **부모가 만든 `ref`를 자식 컴포넌트의 내부 DOM 요소나 메서드에 연결할 수 있도록** 해주는 고차 함수이다.

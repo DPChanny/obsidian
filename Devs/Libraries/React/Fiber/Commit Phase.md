@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Commit Phase는 Complete Phase에서 준비된 Effect List를 실행하여, 실제 DOM을 변경하고 후처리 작업을 실행하는 단계**다.
@@ -34,17 +35,16 @@
 ## 특징
 
 - **중단 불가능 (non-interruptible)**
-    
+
     → DOM을 부분적으로 바꾸고 멈추면 화면이 깨지기 때문에 반드시 끝까지 실행된다.
-    
+
 - **정확한 순서 보장** → clean-up → 새 effect 실행 → hook 안정성 유지
-    
 
 ---
 
 ## 예시 흐름
 
-```
+```bash
 Effect List:
   - Fiber A → Update + clean-up
   - Fiber B → Deletion

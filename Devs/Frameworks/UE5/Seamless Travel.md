@@ -7,9 +7,7 @@
 ### NumPlayers와 NumTravelingPlayers 변화
 
 - **`NumTravelingPlayers`**: Seamless Travel 시작 시 이전 월드의 플레이어 수로 초기화되며, `HandleSeamlessTravelPlayer`가 성공적으로 완료될 때마다 1씩 **감소**합니다.
-    
 - **`NumPlayers`**: 새로운 `GameState`에서 0으로 시작하며, `HandleSeamlessTravelPlayer` 내부에서 `AddPlayerState`가 호출될 때마다 1씩 **증가**합니다.
-    
 
 ---
 
@@ -22,9 +20,7 @@
 ### InitGame과 PostLogin이 호출되지 않는 이유
 
 - **`InitGame`**: 완전히 새로운 게임 세션을 시작할 때 호출됩니다. Seamless Travel은 기존 세션을 이어가는 것이므로 호출되지 않습니다.
-    
 - **`PostLogin`**: 클라이언트가 서버에 새로 접속했을 때 호출됩니다. Seamless Travel은 기존 `PlayerController`를 이전하는 방식이므로 '새로운 로그인'으로 취급하지 않아 호출되지 않습니다.
-    
 
 ---
 

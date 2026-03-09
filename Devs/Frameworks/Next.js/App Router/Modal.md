@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. 구조적 목표
 
 Next.js App Router에서는 모달도 구조다.
@@ -17,7 +18,7 @@ Next.js App Router에서는 모달도 구조다.
 
 ## 2. 전체 구조
 
-```
+```bash
 /app
   └── layout.tsx                     ← 최상위 layout: modal 슬롯 정의
   └── @modal

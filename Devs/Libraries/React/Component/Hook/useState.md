@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/State|State]]"
 ---
+
 ## 개념
 
 `useState`는 React에서 상태를 함수형 컴포넌트 내부에서 선언할 수 있게 해주는 Hook이다.
@@ -35,7 +36,7 @@ function Counter() {
 }
 ```
 
-```
+```bash
 (실행 결과)
 Clicked 0 times
 Clicked 1 times

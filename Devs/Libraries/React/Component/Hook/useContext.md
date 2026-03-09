@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Context|Context]]"
 ---
+
 ## 개념
 
 `useContext`는 Context의 현재 값을 반환하는 Hook이다. 이 Hook은 **Context.Provider로 감싸진 컴포넌트 트리 내부**에서 호출돼야 하며, 그렇지 않으면 `createContext`에서 정의한 기본값이 사용된다.

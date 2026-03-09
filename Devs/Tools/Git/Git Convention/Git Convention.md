@@ -1,8 +1,9 @@
 ---
 related:
-  - "[[Devs/Tools/Git/Git Convention/Branching Strategy|Branching Strategy]]"
   - "[[Devs/Tools/Git/Git Convention/Branch Naming Strategy|Branch Naming Strategy]]"
+  - "[[Devs/Tools/Git/Git Convention/Branching Strategy|Branching Strategy]]"
 ---
+
 협업 과정의 병합 충돌(Merge Conflict), 이력 혼선, 브랜치 재사용 문제를 방지하기 위한 실전적 규칙임.
 
 ### 1. 주요 전략 구성

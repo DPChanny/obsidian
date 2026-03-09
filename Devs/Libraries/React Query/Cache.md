@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. 캐시 개요
 
 React Query는 서버 데이터를 `queryKey`를 기준으로 캐시하고,
@@ -10,7 +11,7 @@ React Query는 서버 데이터를 `queryKey`를 기준으로 캐시하고,
 
 ---
 
-## 2. invalidateQueries – 캐시 무효화 후 재요청
+## 2. invalidateQueries–캐시 무효화 후 재요청
 
 ```tsx
 queryClient.invalidateQueries({ queryKey: ['posts'] })
@@ -41,7 +42,7 @@ const mutation = useMutation({
 
 ---
 
-## 3. setQueryData – 캐시 직접 수정으로 실시간 반영
+## 3. setQueryData–캐시 직접 수정으로 실시간 반영
 
 ```tsx
 queryClient.setQueryData(['posts'], (old) => [...old, newPost])
@@ -94,13 +95,13 @@ const mutation = useMutation({
 ## 5. 결론
 
 > 유저 추가, 포스트 생성 등 결과를 예측할 수 있는 단순 목록 구조에서는
-> 
+>
 > `setQueryData()`로 **즉시 캐시를 수정하는 것이 더 빠르고 부드러운 UX**를 만든다.
 
 반면
 
 > 서버 상태를 다시 정확히 확인해야 하는 복잡한 구조에서는
-> 
+>
 > `invalidateQueries()`로 전체 동기화를 거는 게 정확하다.
 
 이렇게 React Query는

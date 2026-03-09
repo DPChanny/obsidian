@@ -2,6 +2,7 @@
 related:
   - "[[Generals/OOP/Abstraction/Interface|Interface]]"
 ---
+
 C++에서는 **순수 가상 함수(pure virtual function)**를 이용해 이 구조를 만든다. C++에는 `interface` 키워드가 없으므로, 이를 대신해 **모든 메서드가 순수 가상 함수인 추상 클래스(abstract class)**를 만든다.
 
 ---
@@ -75,7 +76,7 @@ int main() {
 
 결과:
 
-```
+```bash
 Drawing Circle, area = 28.26
 Drawing Rectangle, area = 20
 ```

@@ -1,11 +1,9 @@
 ---
 related:
 ---
-### LC {{date}}-{{time}}
-# Problem
-> 
 
+### LC {{date}}-{{time}}
+
+# Problem
 
 # Solution
-> 
-

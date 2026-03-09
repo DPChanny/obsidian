@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 React의 Scheduler는 상태 변경이 발생했을 때, 이를 즉시 처리하지 않고 **언제 처리할지 결정하는 역할**을 한다.
@@ -64,7 +65,7 @@ React 내부의 Scheduler는 다음 기준으로 작업을 제어한다:
 
 ## 예시 흐름 요약
 
-```
+```bash
 1. setState → DefaultLane 등록
 2. startTransition → TransitionLane 등록
 3. Scheduler가 현재 idle 상태면 Transition부터 실행

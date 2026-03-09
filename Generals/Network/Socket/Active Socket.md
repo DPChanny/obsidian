@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Active Socket**은 **클라이언트와 서버 간의 TCP 연결이 성립된 후, 실제 데이터 송수신을 담당하는 소켓**이다.
@@ -27,7 +28,7 @@
 
 서버 쪽 흐름:
 
-```
+```bash
 socket()  → passive
 bind()
 listen()  → passive socket ready
@@ -38,7 +39,7 @@ recv()/send()  → 데이터 송수신
 
 클라이언트 쪽 흐름:
 
-```
+```bash
 socket() → connect()  → active socket 생성
 send()/recv() → 데이터 송수신
 
@@ -80,7 +81,7 @@ client.close()
 
 ```
 
-```
+```bash
 서버:
 waiting...
 connected: ('127.0.0.1', 53422)

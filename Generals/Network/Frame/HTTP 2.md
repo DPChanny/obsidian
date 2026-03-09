@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. 공통 프레임 헤더
 
 |필드|크기|설명|
@@ -14,47 +15,47 @@
 
 ## 2. 프레임 종류별 설명
 
-### 0x0 — DATA
+### 0x0—DATA
 
 - 본문 데이터
 - 플래그: `END_STREAM`, `PADDED`
 
-### 0x1 — HEADERS
+### 0x1—HEADERS
 
 - 헤더 블록
 - 플래그: `END_HEADERS`, `END_STREAM`, `PADDED`, `PRIORITY`
 
-### 0x2 — PRIORITY
+### 0x2—PRIORITY
 
 - 스트림 우선순위 설정
 
-### 0x3 — RST_STREAM
+### 0x3—RST_STREAM
 
 - 스트림 종료, 에러코드 포함
 
-### 0x4 — SETTINGS
+### 0x4—SETTINGS
 
 - 연결 설정 교환
 - 플래그: `ACK`
 
-### 0x5 — PUSH_PROMISE
+### 0x5—PUSH_PROMISE
 
 - 서버 푸시 예고
 
-### 0x6 — PING
+### 0x6—PING
 
 - 연결 확인
 - 플래그: `ACK`
 
-### 0x7 — GOAWAY
+### 0x7—GOAWAY
 
 - 연결 종료
 
-### 0x8 — WINDOW_UPDATE
+### 0x8—WINDOW_UPDATE
 
 - 수신 윈도우 증가
 
-### 0x9 — CONTINUATION
+### 0x9—CONTINUATION
 
 - 헤더 블록 분할
 

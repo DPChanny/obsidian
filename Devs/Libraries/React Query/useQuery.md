@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Hook|Hook]]"
 ---
+
 ## 1. 개요
 
 `useQuery`는 React Query의 핵심 훅이다.
@@ -34,7 +35,7 @@ const { data, isLoading, error } = useQuery({
 
 ## 3. 구조 분해 방식 비교: useState vs useQuery
 
-### useState – 배열 구조 분해
+### useState–배열 구조 분해
 
 ```tsx
 const [count, setCount] = useState(0)
@@ -47,7 +48,7 @@ const [count, setCount] = useState(0)
 
 ---
 
-### useQuery – 객체 구조 분해
+### useQuery–객체 구조 분해
 
 ```tsx
 // 변수명 중복으로 에러 발생

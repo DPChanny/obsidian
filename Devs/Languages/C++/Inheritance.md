@@ -2,6 +2,7 @@
 related:
   - "[[Generals/OOP/Inheritance|Inheritance]]"
 ---
+
 ## 메모리 상속 구조 예시
 
 ```cpp
@@ -24,7 +25,7 @@ public:
 
 이런 구조에서 실제 메모리 배치를 확인해 보면 다음과 같이 나온다:
 
-```
+```bash
 Memory addresses:
  &obj.b1 = 0x7ffeecc2ba10
  &obj.b2 = 0x7ffeecc2ba14
@@ -62,7 +63,7 @@ public:
 };
 ```
 
-```
+```bash
 A::value = 20
 B::value = 10
 ```
@@ -89,7 +90,7 @@ public:
 };
 ```
 
-```
+```bash
 Calling via B* ptr = &a:
 B::print()
 Calling via A object:

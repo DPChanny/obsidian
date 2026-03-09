@@ -2,6 +2,7 @@
 related:
   - "[[Devs/Libraries/React/Component/Context|Context]]"
 ---
+
 ## 1. 개요
 
 Hydration은 서버에서 미리 가져온 React Query 상태를

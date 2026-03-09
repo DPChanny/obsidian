@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 1. queryKey란 무엇인가?
 
 React Query는 데이터를 `queryKey`를 기준으로 캐시한다.
@@ -84,7 +85,7 @@ invalidateQueries({ queryKey: ['post', 1] })
 
 ## 6. 실전 예시
 
-### 예시 1 – 전체 포스트 목록 무효화
+### 예시 1–전체 포스트 목록 무효화
 
 ```tsx
 queryClient.invalidateQueries({ queryKey: ['post'] })
@@ -95,7 +96,7 @@ queryClient.invalidateQueries({ queryKey: ['post'] })
 
 ---
 
-### 예시 2 – 특정 포스트만 다시 불러오기
+### 예시 2–특정 포스트만 다시 불러오기
 
 ```tsx
 queryClient.invalidateQueries({ queryKey: ['post', 42] })

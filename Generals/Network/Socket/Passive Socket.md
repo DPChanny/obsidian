@@ -1,5 +1,6 @@
 ---
 ---
+
 ## 개념
 
 **Passive Socket**은 TCP 서버에서 **클라이언트의 연결 요청을 수동적으로 대기하는 소켓**이다.
@@ -21,23 +22,22 @@
 ## 흐름
 
 1. **소켓 생성**
-    
+
     먼저 일반적인 TCP 소켓을 생성한다.
-    
+
 2. **주소 바인딩**
-    
+
     IP 주소와 포트를 소켓에 바인딩한다.
-    
+
 3. **Passive로 전환**
-    
+
     `listen`을 호출하여 소켓을 passive 상태로 만든다.
-    
+
 4. **3-way handshake 처리**
-    
+
     클라이언트 요청을 커널이 수락하고 `accept()`를 통해 active socket으로 전환한다.
-    
+
     이 handshake 과정에서만 passive socket이 동작한다.
-    
 
 ---
 
@@ -81,7 +81,7 @@ server_socket.close()
 
 ```
 
-```
+```bash
 Waiting for connection...
 Connected by ('127.0.0.1', 52341)
 

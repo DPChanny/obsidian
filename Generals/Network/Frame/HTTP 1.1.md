@@ -1,8 +1,9 @@
 ---
 ---
+
 ## 1. 메시지 프레임 구조
 
-```
+```bash
 POST /upload HTTP/1.1\\\\r\\\\n
 Host: example.com\\\\r\\\\n
 Content-Type: application/json\\\\r\\\\n
@@ -23,7 +24,7 @@ Content-Length: 27\\\\r\\\\n
 
 ### Transfer-Encoding: chunked
 
-```
+```bash
 4\\\\r\\\\n
 Wiki\\\\r\\\\n
 5\\\\r\\\\n
@@ -39,7 +40,7 @@ pedia\\\\r\\\\n
 
 ## 3. Content-Type
 
-```
+```bash
 Content-Type: text/html; charset=utf-8
 
 ```
@@ -69,7 +70,7 @@ sock.sendall(response)
 
 ## 5. 연결 관리
 
-```
+```bash
 Connection: keep-alive  # 기본 유지
 Connection: close       # 요청 후 종료
 
@@ -132,5 +133,5 @@ def parse_http_response(raw_bytes: bytes):
 ## 따라서
 
 > HTTP/1.1은 줄처럼 보이지만, 끝을 정확히 알리는 구조 없이는 절대 해석될 수 없다.
-> 
+>
 > 결국 모든 바디는 바이트이며, 그 경계와 해석은 명시적으로 지정할 수밖에 없다.

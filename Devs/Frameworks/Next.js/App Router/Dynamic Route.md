@@ -1,8 +1,9 @@
 ---
 ---
+
 ## 1. 기본 개념
 
-App Router에서는 파일 또는 폴더 이름에 대괄호(`[ ]`)를 사용해 **동적 경로 세그먼트**를 정의할 수 있다.
+App Router에서는 파일 또는 폴더 이름에 대괄호(`[]`)를 사용해 **동적 경로 세그먼트**를 정의할 수 있다.
 
 해당 URL의 일부를 변수처럼 처리하며, 컴포넌트에서는 이를 `params` 객체를 통해 접근한다.
 
@@ -10,7 +11,7 @@ App Router에서는 파일 또는 폴더 이름에 대괄호(`[ ]`)를 사용해
 
 ### 예시 구조
 
-```
+```bash
 /app
   └── blog
        └── [slug]
@@ -43,7 +44,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
 
 ### 예시
 
-```
+```bash
 /app
   └── product
        └── [category]
@@ -81,7 +82,7 @@ export default function ProductDetail({
 
 ### `[...param]` → 필수 다중 세그먼트
 
-```
+```bash
 /app/docs/[...slug]/page.tsx
 
 ```
@@ -94,7 +95,7 @@ export default function ProductDetail({
 
 ### `[[...param]]` → 선택적 다중 세그먼트
 
-```
+```bash
 /app/help/[[...page]]/page.tsx
 
 ```
