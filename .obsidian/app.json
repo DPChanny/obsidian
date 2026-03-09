@@ -15,5 +15,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "openBehavior": "new",
+  "strictLineBreaks": true,
+  "useTab": false
 }

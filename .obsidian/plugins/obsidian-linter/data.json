@@ -40,7 +40,7 @@
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
-      "enabled": true,
+      "enabled": false,
       "yaml-keys-to-remove": "type"
     },
     "sort-yaml-array-values": {
@@ -126,7 +126,7 @@
     },
     "default-language-for-code-fences": {
       "enabled": false,
-      "default-language": ""
+      "default-language": "bash"
     },
     "emphasis-style": {
       "enabled": false,
@@ -176,53 +176,53 @@
       "list-style": "consistent"
     },
     "compact-yaml": {
-      "enabled": false,
+      "enabled": true,
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
       "tabsize": 4
     },
     "empty-line-around-blockquotes": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-code-fences": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-math-blocks": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
       "enabled": false
     },
     "paragraph-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": false
+      "enabled": true
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
-      "enabled": false,
+      "enabled": true,
       "include-fullwidth-forms": true,
       "include-cjk-symbols-and-punctuation": true,
       "include-dashes": true,
