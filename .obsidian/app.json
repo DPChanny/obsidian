@@ -18,5 +18,6 @@
   },
   "openBehavior": "",
   "strictLineBreaks": true,
-  "useTab": false
+  "useTab": false,
+  "showInlineTitle": false
 }
