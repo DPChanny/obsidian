@@ -8,7 +8,7 @@
   "autoCreateFocusFiles": false,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
-  "enableCollapsing": false,
+  "enableCollapsing": true,
   "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": false,
@@ -63,7 +63,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "file_explorer",
+  "settingsTab": "folder_overview",
   "supportedFileTypes": [
     "md"
   ],
@@ -71,7 +71,7 @@
   "boldNameInPath": false,
   "cursiveName": false,
   "cursiveNameInPath": false,
-  "disableOpenFolderNoteOnClick": true,
+  "disableOpenFolderNoteOnClick": false,
   "openByClick": true,
   "openWithCtrl": false,
   "openWithAlt": false,
@@ -110,11 +110,11 @@
   "hideCollapsingIcon": false,
   "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
-  "ignoreAttachmentFolder": true,
+  "ignoreAttachmentFolder": false,
   "deleteFilesAction": "trash",
   "openSidebar": {
     "mobile": false,
-    "desktop": true
+    "desktop": false
   },
   "highlightFolder": true,
   "persistentSettingsTab": {
