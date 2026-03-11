@@ -1,8 +1,8 @@
 [
-  "folders2graph",
   "obsidian-latex-suite",
   "obsidian-linter",
   "obsidian-git",
   "obsidian-local-rest-api",
-  "folder-notes"
+  "folder-notes",
+  "folders2graph"
 ]

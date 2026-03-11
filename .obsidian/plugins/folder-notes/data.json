@@ -13,7 +13,7 @@
   "whitelistFolders": [],
   "showDeleteConfirmation": false,
   "underlineFolder": true,
-  "stopWhitespaceCollapsing": true,
+  "stopWhitespaceCollapsing": false,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": true,
@@ -63,7 +63,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
     "md"
   ],
@@ -71,7 +71,7 @@
   "boldNameInPath": false,
   "cursiveName": false,
   "cursiveNameInPath": false,
-  "disableOpenFolderNoteOnClick": false,
+  "disableOpenFolderNoteOnClick": true,
   "openByClick": true,
   "openWithCtrl": false,
   "openWithAlt": false,
@@ -123,6 +123,6 @@
   },
   "firstTimeInsertOverview": true,
   "fvGlobalSettings": {
-    "autoUpdateLinks": false
+    "autoUpdateLinks": true
   }
 }
