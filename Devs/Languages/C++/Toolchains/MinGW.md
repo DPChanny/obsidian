@@ -1,8 +1,8 @@
 ---
 tags: []
 related:
-  - "[[MSVCRT|MSVCRT]]"
-  - "[[UCRT|UCRT]]"
+  - "[[Devs/Languages/C++/Runtimes/MSVCRT|MSVCRT]]"
+  - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
 ---
 
 **Minimalist GNU for Windows**의 약자로, GCC(GNU Compiler Collection)를 Windows 환경에서 네이티브로 사용할 수 있도록 포팅한 툴체인임.

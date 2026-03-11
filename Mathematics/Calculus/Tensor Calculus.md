@@ -1,8 +1,8 @@
 ---
 tags: []
 related:
-  - "[[Autograd|Autograd]]"
-  - "[[Jacobian Matrix|Jacobian Matrix]]"
+  - "[[Generals/Deep Learning/Autograd|Autograd]]"
+  - "[[Mathematics/Calculus/Jacobian Matrix|Jacobian Matrix]]"
 ---
 
 벡터나 행렬을 넘어선 고차원 데이터(Tensor) 간의 다변수 미분 규칙과 컴퓨팅 연산 처리 방식에 대한 정리임.
@@ -46,4 +46,4 @@ $$
 
 ---
 
-※ **참고**: 딥러닝에서 배치나 시계열 차원을 포함한 파라미터 미분을 수행할 때는, 위와 같은 거대 다차원 텐서를 직접 구축하지 않고 '스칼라 환원'과 '벡터-야코비안 곱(VJP)'을 통해 메모리 한계를 우회함. (자세한 내용은 [[Autograd|Autograd]] 문서 참조)
+※ **참고**: 딥러닝에서 배치나 시계열 차원을 포함한 파라미터 미분을 수행할 때는, 위와 같은 거대 다차원 텐서를 직접 구축하지 않고 '스칼라 환원'과 '벡터-야코비안 곱(VJP)'을 통해 메모리 한계를 우회함. (자세한 내용은 [[Generals/Deep Learning/Autograd|Autograd]] 문서 참조)

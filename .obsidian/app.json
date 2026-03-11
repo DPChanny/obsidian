@@ -7,7 +7,7 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "rightToLeft": false,
   "pdfExportSettings": {
     "includeName": true,

@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Python VM|Python VM]]"
+  - "[[Devs/Languages/Python/Runtimes/Python VM|Python VM]]"
 ---
 
 Python 언어의 공식 레퍼런스 구현체로, C 언어로 작성되었으며 소스 코드를 바이트코드로 컴파일하는 과정을 담당함.

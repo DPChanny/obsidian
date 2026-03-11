@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[CPython|CPython]]"
+  - "[[Devs/Languages/Python/Toolchains/CPython|CPython]]"
 ---
 
 CPython 컴파일러가 생성한 바이트코드를 한 줄씩 해석하고 실행하는 인터프리터 기반의 가상 머신임.
