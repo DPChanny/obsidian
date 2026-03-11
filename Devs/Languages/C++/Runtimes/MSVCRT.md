@@ -1,7 +1,7 @@
 ---
 related:
-  - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
-  - "[[Devs/Toolchains/C++/MinGW|MinGW]]"
+  - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
+  - "[[Devs/Languages/C++/Toolchains/MinGW|MinGW]]"
 ---
 
 **Microsoft Visual C++ Runtime**의 레거시 버전(msvcrt.dll)을 의미하며, 이전 세대 Windows 환경의 기본 C 표준 라이브러리임.
