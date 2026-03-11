@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Tools/Git/Git Convention/Git Convention|Git Convention]]"
+  - "[[Devs/Stacks/Git/Git Convention/Git Convention|Git Convention]]"
 ---
 
 ### 1. 브랜치 파생 원칙 (Rule 1)
