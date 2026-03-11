@@ -4,14 +4,14 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": true,
-  "autoCreateFocusFiles": true,
+  "autoCreate": false,
+  "autoCreateFocusFiles": false,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
   "excludeFolders": [],
   "whitelistFolders": [],
-  "showDeleteConfirmation": true,
+  "showDeleteConfirmation": false,
   "underlineFolder": true,
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
@@ -65,8 +65,7 @@
   },
   "settingsTab": "general",
   "supportedFileTypes": [
-    "md",
-    "canvas"
+    "md"
   ],
   "boldName": false,
   "boldNameInPath": false,
@@ -120,7 +119,7 @@
   "highlightFolder": true,
   "persistentSettingsTab": {
     "afterRestart": true,
-    "afterChangingTab": true
+    "afterChangingTab": false
   },
   "firstTimeInsertOverview": true,
   "fvGlobalSettings": {
