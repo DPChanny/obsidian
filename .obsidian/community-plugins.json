@@ -3,5 +3,6 @@
   "obsidian-latex-suite",
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "folder-note-plugin"
 ]
