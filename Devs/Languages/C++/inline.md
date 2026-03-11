@@ -27,9 +27,7 @@ related:
 
 - **`my_inline.h`**
 
-    C++
-
-    ```bash
+    ```cpp
     #pragma once
     
     // 이 함수 정의를 헤더에 작성할 수 있는 것은 'inline' 덕분이다.
@@ -40,9 +38,7 @@ related:
 
 - **`a.cpp` 와 `b.cpp`**
 
-    C++
-
-    ```bash
+    ```cpp
     #include "my_inline.h"
     // ...
     int result = add(1, 2);

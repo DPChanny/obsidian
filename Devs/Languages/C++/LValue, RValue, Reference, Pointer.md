@@ -32,9 +32,7 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
     
     1. **함수로 객체를 전달하여 수정할 때:** 함수 내에서 원본 객체를 직접 변경하기 위해 사용합니다.
 
-        C++
-
-        ```bash
+        ```cpp
         void increment(int& value) { // value는 lvalue여야 함
             value++;
         }
@@ -48,9 +46,7 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
     - `nullptr`처럼 "없음"을 표현해야 할 때. 참조는 반드시 유효한 객체를 가리켜야 합니다.
     - rvalue (리터럴, 임시 객체)를 인자로 받고 싶을 때.
 
-        C++
-
-        ```bash
+        ```cpp
         // increment(10); // 컴파일 에러! 10은 rvalue이다.
         ```
 
@@ -58,18 +54,17 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
 
 - **규칙:** **lvalue와 rvalue 모두** 가리킬 수 있습니다.
 - **주요 용도:**
-    
     1. **복사 비용 없이 읽기 전용 접근이 필요할 때:** 가장 일반적인 용도입니다. 함수가 객체를 수정하지 않는다는 계약을 하면서, lvalue와 rvalue를 모두 효율적으로 받을 수 있습니다.
 
-- ```bash
+    ```cpp
       void print(const std::string& str) { // str은 lvalue, rvalue 모두 가능
           std::cout << str << std::endl;
       }
       std::string myStr = "world";
       print(myStr);   // lvalue 전달
       print("hello"); // rvalue 전달
-      ```
     ```
+
 - **사용하면 안 되는 경우:**
     - 함수 내에서 전달받은 객체의 상태를 변경해야 할 때.
 
@@ -80,9 +75,7 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
     
     1. **이동 의미론(Move Semantics) 구현:** 소멸될 임시 객체(rvalue)의 자원을 "훔쳐와서" 비싼 복사를 피합니다. 이동 생성자, 이동 대입 연산자의 핵심입니다.
 
-        C++
-
-        ```bash
+        ```cpp
         std::string str1 = "hello";
         std::string str2 = std::move(str1); // std::move는 lvalue를 rvalue처럼 취급하게 함
         // 이제 str1의 내용은 비어있고, str2가 그 자원을 소유함
@@ -104,9 +97,7 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
     - **용도:** 객체의 내용을 읽기만 하고 수정은 하지 않겠다는 것을 명시하며 함수 인자로 전달할 때 사용됩니다.
     - **예시:**
 
-        C++
-
-        ```bash
+        ```cpp
         void print_values(const int* arr, int size);
         // *arr = 10; // 함수 내에서 이 코드는 컴파일 에러
         ```
@@ -116,9 +107,7 @@ C++의 모든 표현식(expression)은 lvalue 또는 rvalue 중 하나로 분류
     - **용도:** 클래스 멤버 변수로 포인터를 가질 때, 이 포인터가 객체의 생명주기 동안 항상 동일한 대상을 가리키도록 강제하고 싶을 때 사용됩니다.
     - **예시:**
 
-        C++
-
-        ```bash
+        ```cpp
         class HardwareInterface {
             Register* const controlRegister; // 항상 특정 하드웨어 레지스터를 가리킴
         public:
