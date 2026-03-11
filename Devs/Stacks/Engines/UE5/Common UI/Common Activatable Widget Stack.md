@@ -1,3 +1,8 @@
+---
+tags: []
+related: 
+---
+
 `UCommonActivatableWidgetStack`은 **활성화 가능한 위젯(`UCommonActivatableWidget`)들을 체계적으로 관리하기 위한 컨테이너**입니다. 이름 그대로, 위젯들을 **스택(Stack)** 자료구조 방식으로 처리하여 복잡한 UI 흐름을 손쉽게 제어하도록 돕는 핵심적인 컴포넌트입니다.
 
 가장 쉬운 비유는 책상 위의 **서류 더미(Stack of papers)** 입니다. 가장 위에 있는 서류만 볼 수 있고, 그 서류를 치워야만 아래 서류를 볼 수 있는 것처럼 동작합니다.

@@ -1,4 +1,6 @@
 ---
+tags: []
+related: 
 ---
 
 ## **1. 값의 종류 (Value Categories)**

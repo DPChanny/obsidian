@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Mathematics/Calculus/Tensor Calculus|Tensor Calculus]]"
   - "[[Mathematics/Linear Algebra/Layout|Layout]]"

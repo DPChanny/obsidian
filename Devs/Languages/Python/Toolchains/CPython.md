@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Devs/Languages/Python/Runtimes/Python VM|Python VM]]"
 ---

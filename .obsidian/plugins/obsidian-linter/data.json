@@ -19,7 +19,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
       "enabled": true,
@@ -28,11 +28,11 @@
       "default-array-style": "multi-line",
       "default-array-keys": true,
       "force-single-line-array-style": "",
-      "force-multi-line-array-style": ""
+      "force-multi-line-array-style": "tags, related"
     },
     "insert-yaml-attributes": {
-      "enabled": false,
-      "text-to-insert": "aliases: \ntags: "
+      "enabled": true,
+      "text-to-insert": "tags: \nrelated: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -72,7 +72,7 @@
     "yaml-title": {
       "enabled": false,
       "title-key": "title",
-      "mode": "first-h1-or-filename-if-h1-missing"
+      "mode": "filename"
     },
     "yaml-title-alias": {
       "enabled": false,

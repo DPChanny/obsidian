@@ -1,4 +1,6 @@
 ---
+tags: []
+related: 
 ---
 
 ## 1. layout.tsx란 무엇인가

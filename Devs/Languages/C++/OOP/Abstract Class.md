@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Generals/OOP/Abstraction/Abstract Class|Abstract Class]]"
 ---

@@ -1,3 +1,8 @@
+---
+tags: []
+related: 
+---
+
 - **`UInputPopupWidget`**: 사용자에게 텍스트 입력을 받고, '확인' 버튼을 누르면 입력된 텍스트를 담아 델리게이트를 호출하는 Activatable Widget
 - **`UMainMenuWidget`**: '이름 변경' 버튼을 누르면 위 팝업을 띄우고, 팝업이 전달한 텍스트 값을 받아서 화면에 표시하는 메인 위젯
 

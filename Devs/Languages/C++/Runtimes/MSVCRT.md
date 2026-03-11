@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
   - "[[Devs/Languages/C++/Toolchains/MinGW|MinGW]]"

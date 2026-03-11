@@ -1,3 +1,8 @@
+---
+tags: []
+related: 
+---
+
 ### Seamless Travel 과정 요약
 
 `PostSeamlessTravel` 호출 이후, GameMode는 이전 월드에 있던 각 플레이어에 대해 `HandleSeamlessTravelPlayer`를 순차적으로 호출합니다. 이 함수 안에서 새로운 `GameState`에 `AddPlayerState`가 호출되어 플레이어가 추가됩니다. `BeginPlay`는 월드 초기화 단계에서 호출되므로, 플레이어가 모두 이동하기 전이나 중간에 호출될 수 있습니다.

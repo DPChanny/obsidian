@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Devs/Stacks/Frameworks/Next.js/App Router/Layout|Layout]]"
 ---

@@ -1,4 +1,6 @@
 ---
+tags: []
+related: 
 ---
 
 # Next.js App Router 개요와 철학

@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Mathematics/Calculus/Jacobian Matrix|Jacobian Matrix]]"
   - "[[Mathematics/Linear Algebra/Scalar, Vector, Matrix|Scalar, Vector, Matrix]]"

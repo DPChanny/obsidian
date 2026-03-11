@@ -1,5 +1,6 @@
 ---
-related:
+tags: []
+related: 
 ---
 
 ## 1. 정보량 (Information Content)

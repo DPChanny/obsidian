@@ -1,3 +1,8 @@
+---
+tags: []
+related: 
+---
+
 `UCommonUserWidget`은 Unreal Engine의 **Common UI 프레임워크** 내에서 UI 엘리먼트의 기반이 되는 핵심 클래스입니다. 이는 표준 `UUserWidget` 클래스로부터 상속받아, 복수의 입력 메커니즘과 다양한 플랫폼을 지원하기 위한 고도로 확장된 기능을 제공하는 것을 주된 목적으로 합니다.
 
 ---

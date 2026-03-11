@@ -1,4 +1,5 @@
 ---
+tags: []
 related:
   - "[[Generals/OOP/Class|Class]]"
 ---
