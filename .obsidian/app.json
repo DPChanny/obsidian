@@ -7,7 +7,7 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "rightToLeft": false,
   "pdfExportSettings": {
     "includeName": true,
@@ -20,5 +20,7 @@
   "strictLineBreaks": true,
   "useTab": false,
   "showInlineTitle": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
 }

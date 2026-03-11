@@ -1,10 +1,10 @@
 ---
 tags: []
 related:
-  - "[[Devs/Languages/C++/Toolchains/LLVM|LLVM]]"
-  - "[[Devs/Languages/C++/Toolchains/MinGW|MinGW]]"
-  - "[[Devs/Languages/C++/Toolchains/MSVC|MSVC]]"
-  - "[[Devs/Languages/Runtime|Runtime]]"
+  - "[[LLVM|LLVM]]"
+  - "[[MinGW|MinGW]]"
+  - "[[MSVC|MSVC]]"
+  - "[[Runtime|Runtime]]"
 ---
 
 소스 코드를 실행 가능한 바이너리(Executable Binary) 제품으로 변환하기 위해 유기적으로 연결된 개발 도구들의 집합임. 툴체인은 단순한 도구의 나열이 아니라, 특정 플랫폼이나 아키텍처를 타겟팅하기 위한 일련의 공정(Pipeline)을 의미함.

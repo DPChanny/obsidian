@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/React/JSX|JSX]]"
+  - "[[JSX]]"
 ---
 
 React.createElement는 JSX가 변환되어 도달하는 실질적인 함수 호출 형태이며, 모든 React 컴포넌트와 엘리먼트의 기초가 되는 구조다. 이 함수는 Virtual DOM의 단위인 **ReactElement 객체**를 생성하는 역할을 한다.

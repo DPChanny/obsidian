@@ -1,9 +1,9 @@
 ---
 tags: []
 related:
-  - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
-  - "[[Devs/Languages/Python/Runtimes/Python VM|Python VM]]"
-  - "[[Devs/Languages/Toolchain|Toolchain]]"
+  - "[[UCRT|UCRT]]"
+  - "[[Python VM|Python VM]]"
+  - "[[Toolchain|Toolchain]]"
 ---
 
 프로그램이 실행(Execution)되는 동안 베이스가 되는 소프트웨어 환경을 의미함. 런타임은 컴파일된 바이너리가 실제 하드웨어 자원을 효율적으로 사용할 수 있도록 인터페이스를 제공함.

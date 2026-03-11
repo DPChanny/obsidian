@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/React/Component/State|State]]"
+  - "[[State|State]]"
 ---
 
 ## 개념

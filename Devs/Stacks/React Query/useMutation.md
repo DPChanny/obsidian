@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/React/Component/Hook/Hook|Hook]]"
+  - "[[Hook|Hook]]"
 ---
 
 ## 1. 개요

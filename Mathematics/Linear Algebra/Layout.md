@@ -1,8 +1,8 @@
 ---
 tags: []
 related:
-  - "[[Mathematics/Calculus/Jacobian Matrix|Jacobian Matrix]]"
-  - "[[Mathematics/Linear Algebra/Scalar, Vector, Matrix|Scalar, Vector, Matrix]]"
+  - "[[Jacobian Matrix|Jacobian Matrix]]"
+  - "[[Scalar, Vector, Matrix|Scalar, Vector, Matrix]]"
 ---
 
 행렬 미분 시 미분 결과의 차원(형태)을 결정하는 두 가지 주요 표기법(Layout)에 대한 정리임.

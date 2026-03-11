@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Mathematics/Calculus/Jacobian Matrix|Jacobian Matrix]]"
+  - "[[Jacobian Matrix|Jacobian Matrix]]"
   - "[[Mathematics/Linear Algebra/Layout|Layout]]"
 ---
 

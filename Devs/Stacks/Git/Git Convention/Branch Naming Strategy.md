@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Git/Git Convention/Git Convention|Git Convention]]"
+  - "[[Git Convention|Git Convention]]"
 ---
 
 ### 1. Naming Format

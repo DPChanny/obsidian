@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/React/Component/Lifecycle|Lifecycle]]"
+  - "[[Lifecycle|Lifecycle]]"
 ---
 
 ## 개념

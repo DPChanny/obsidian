@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/React/Component/Ref|Ref]]"
+  - "[[Ref|Ref]]"
 ---
 
 `useRef`는 React 함수형 컴포넌트 내부에서 **값을 저장하고 유지하기 위한 훅**이다.
