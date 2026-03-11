@@ -1,6 +1,6 @@
 ---
 tags: []
-related: "[[Devs/Stacks/Libraries/Common UI/Common User Widget|Common User Widget]]"
+related: "[[Devs/Stacks/UE5/Common UI/Common User Widget|Common User Widget]]"
 ---
 
 `UCommonActivatableWidget`은 `UCommonUserWidget`을 직접적으로 상속받는 하위 클래스입니다. 이 클래스는 활성화 및 비활성화가 가능한 UI, 특히 스택(Stack) 구조로 관리되는 UI 레이어를 구현하는 데 특화되어 있습니다.

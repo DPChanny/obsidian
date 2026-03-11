@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Libraries/React/Component/Ref|Ref]]"
+  - "[[Devs/Stacks/React/Component/Ref|Ref]]"
 ---
 
 # forwardRef

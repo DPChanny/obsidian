@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Frameworks/Next.js/App Router/Layout|Layout]]"
+  - "[[Devs/Stacks/Next.js/App Router/Layout|Layout]]"
 ---
 
 ## 1. 병렬 레이아웃이란?

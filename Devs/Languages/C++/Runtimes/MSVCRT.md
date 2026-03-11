@@ -1,7 +1,6 @@
 ---
 tags: []
 related:
-  - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
   - "[[Devs/Languages/C++/Toolchains/MinGW|MinGW]]"
 ---
 
@@ -15,4 +14,4 @@ related:
 
 ## 현대적 위상
 
-- 현재는 [[Devs/Runtimes/C++/UCRT|UCRT]]로 대체되는 추세이며, MSYS2의 **MINGW64** 환경에서 호환성 목적으로 주로 사용됨.
+- 현재는 [[Devs/Languages/C++/Runtimes/UCRT|UCRT]]로 대체되는 추세이며, MSYS2의 **MINGW64** 환경에서 호환성 목적으로 주로 사용됨.

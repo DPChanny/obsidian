@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Engines/UE5/FString FName FText TEXT|FString FName FText TEXT]]"
+  - "[[Devs/Stacks/UE5/Core/FString FName FText TEXT|FString FName FText TEXT]]"
 ---
 
 FText의 현지화 원리는 **'키-값(Key-Value) 시스템'**임. 코드에는 텍스트 원문이 아닌 고유 **'키(Key)'**를 저장하고, 게임 실행 시 현재 언어 설정에 맞는 **'값(Value)'**, 즉 번역된 텍스트를 이 키를 통해 찾아와 표시하는 방식임.

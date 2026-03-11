@@ -1,7 +1,7 @@
 ---
 tags: []
 related:
-  - "[[Devs/Stacks/Libraries/React/Component/Context|Context]]"
+  - "[[Devs/Stacks/React/Component/Context|Context]]"
 ---
 
 ## 개념
