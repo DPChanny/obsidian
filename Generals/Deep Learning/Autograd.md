@@ -2,7 +2,7 @@
 tags: []
 related:
   - "[[Mathematics/Calculus/Tensor Calculus|Tensor Calculus]]"
-  - "[[Mathematics/Linear Algebra/Layout|Layout]]"
+  - "[[Mathematics/Calculus/Layout|Layout]]"
 ---
 
 PyTorch, TensorFlow 등 자동 미분(Automatic Differentiation) 프레임워크가 고차원 텐서와 대규모 배치(Batch), 시계열(Time) 데이터를 처리할 때 메모리 한계를 우회하고 효율적으로 그래디언트를 구하는 연산 기법에 대한 정리임.

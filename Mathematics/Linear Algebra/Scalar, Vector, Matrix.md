@@ -2,7 +2,7 @@
 tags: []
 related:
   - "[[Mathematics/Calculus/Jacobian Matrix|Jacobian Matrix]]"
-  - "[[Mathematics/Linear Algebra/Layout|Layout]]"
+  - "[[Mathematics/Calculus/Layout|Layout]]"
 ---
 
 선형대수학에서 데이터를 다루는 기본 구조와 수학적 표기법에 대한 정리임.

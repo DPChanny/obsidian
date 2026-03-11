@@ -2,7 +2,7 @@
 tags: []
 related:
   - "[[Mathematics/Calculus/Tensor Calculus|Tensor Calculus]]"
-  - "[[Mathematics/Linear Algebra/Layout|Layout]]"
+  - "[[Mathematics/Calculus/Layout|Layout]]"
 ---
 
 스칼라 미분과 벡터 미분을 하나의 일관된 형태로 통합하는 다변수 미분의 일반화된 행렬인 야코비안(Jacobian) 행렬에 대한 정리임.
