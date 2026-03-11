@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Libraries/React/Component/Hook|Hook]]"
+  - "[[Devs/Stacks/Libraries/React/Component/Hook|Hook]]"
 ---
 
 ## 1. 개요

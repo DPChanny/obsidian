@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Runtimes/C++/UCRT|UCRT]]"
+  - "[[Devs/Languages/C++/Runtimes/UCRT|UCRT]]"
 ---
 
 Microsoft Visual C++ Toolchain의 약칭으로, Windows 네이티브 환경 빌드를 위한 공식 도구 모음임.

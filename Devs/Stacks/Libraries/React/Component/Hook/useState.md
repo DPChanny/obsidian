@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Libraries/React/Component/State|State]]"
+  - "[[Devs/Stacks/Libraries/React/Component/State|State]]"
 ---
 
 ## 개념

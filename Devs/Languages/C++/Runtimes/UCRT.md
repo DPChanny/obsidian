@@ -1,7 +1,7 @@
 ---
 related:
-  - "[[Devs/Runtimes/C++/MSVCRT|MSVCRT]]"
-  - "[[Devs/Toolchains/C++/MSVC|MSVC]]"
+  - "[[Devs/Languages/C++/Runtimes/MSVCRT|MSVCRT]]"
+  - "[[Devs/Languages/C++/Toolchains/MSVC|MSVC]]"
 ---
 
 **Universal C Runtime**의 약자로, Windows 10 이후 OS의 핵심 구성 요소로 포함된 최신 C 표준 라이브러리임.

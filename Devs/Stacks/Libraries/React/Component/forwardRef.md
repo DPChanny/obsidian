@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Libraries/React/Component/Ref|Ref]]"
+  - "[[Devs/Stacks/Libraries/React/Component/Ref|Ref]]"
 ---
 
 # forwardRef

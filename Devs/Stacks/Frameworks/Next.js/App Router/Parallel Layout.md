@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Frameworks/Next.js/App Router/Layout|Layout]]"
+  - "[[Devs/Stacks/Frameworks/Next.js/App Router/Layout|Layout]]"
 ---
 
 ## 1. 병렬 레이아웃이란?

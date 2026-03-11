@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Libraries/React/Component/Context|Context]]"
+  - "[[Devs/Stacks/Libraries/React/Component/Context|Context]]"
 ---
 
 ## 개념

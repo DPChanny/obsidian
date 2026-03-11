@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Engines/UE5/Authority|Authority]]"
+  - "[[Devs/Stacks/Engines/UE5/Authority|Authority]]"
 ---
 
 UE5의 멀티플레이어 환경에서 RPC는 한 컴퓨터(클라이언트 또는 서버)가 네트워크로 연결된 다른 컴퓨터에서 함수를 실행하도록 요청하는 핵심 기능임. 이는 각 플레이어의 게임 경험을 동기화하는 데 필수적임.

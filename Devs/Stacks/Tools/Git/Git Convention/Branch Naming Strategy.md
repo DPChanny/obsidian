@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Devs/Tools/Git/Git Convention/Git Convention|Git Convention]]"
+  - "[[Devs/Stacks/Tools/Git/Git Convention/Git Convention|Git Convention]]"
 ---
 
 ### 1. Naming Format
