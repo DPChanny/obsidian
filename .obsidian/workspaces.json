@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "15aa99935baa2577",
+            "id": "78882adbe53c6e09",
             "type": "tabs",
             "children": [
               {
-                "id": "6650caa4dee9477e",
+                "id": "43e1c2abeb925224",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -80,8 +80,7 @@
                   "title": "Source Control"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -102,13 +101,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Devs/Languages/Toolchain.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Toolchain"
+                  "title": "Outline"
                 }
               }
             ]
@@ -124,12 +122,11 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Devs/Languages/Toolchain.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Toolchain"
+                  "title": "Outgoing links"
                 }
               },
               {
@@ -164,8 +161,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "ca18f2b4d5254fc9",
-      "mtime": "2026-03-11T16:09:38+09:00"
+      "active": "43e1c2abeb925224",
+      "mtime": "2026-03-11T19:02:14+09:00"
     }
   },
   "active": "Default"
