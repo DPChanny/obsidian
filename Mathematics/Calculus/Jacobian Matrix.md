@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[Mathematics/Calculus/Tensor Caclulus|Tensor Caclulus]]"
+  - "[[Mathematics/Calculus/Tensor Calculus|Tensor Calculus]]"
   - "[[Mathematics/Linear Algebra/Layout|Layout]]"
 ---
 
