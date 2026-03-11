@@ -19,5 +19,6 @@
   "openBehavior": "",
   "strictLineBreaks": true,
   "useTab": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": false
 }
