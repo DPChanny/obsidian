@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "",
-  "showRibbon": false
+  "showRibbon": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
 }
