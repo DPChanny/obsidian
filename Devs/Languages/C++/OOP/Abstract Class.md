@@ -32,8 +32,6 @@ public:
 - 이런 경우, 이 클래스는 **"인터페이스"가 아닌 "기본 동작을 일부 포함한 추상 클래스"**라고 보는 게 맞다.
 
 ```cpp
-cpp
-복사편집
 class AbstractWorker {
 public:
     virtual ~AbstractWorker() {}
